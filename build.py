@@ -1,9 +1,8 @@
-# %%
 from datetime import datetime
 
 import requests
 from ics import Calendar, Event
-from pytz import timezone
+from ics.grammar.parse import ContentLine
 
 CALENDAR_URL = "https://registrar.osu.edu/umbraco/api/calendar/getentries"
 
@@ -25,13 +24,13 @@ def get_calendar(years_past=5, years_future=5, filters=None):
 
 def make_calendar(entries):
     cal = Calendar()
-
+    cal.extra.append(ContentLine(name="X-WR-TIMEZONE", value="America/New_York"))
     for e in entries:
         date = datetime.fromisoformat(e["DateTime"])
         x = e["Title"].split(" - ")
         event = Event(
             name=x[0].title(),
-            begin=date.astimezone(timezone("US/Eastern")),
+            begin=date,
             description=x[1].capitalize() if len(x) > 1 else None,
         )
         event.make_all_day()
