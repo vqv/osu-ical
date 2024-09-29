@@ -3,863 +3,863 @@ X-WR-TIMEZONE:America/New_York
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250714
-DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 4-week session 3
-SUMMARY:Census Date
-UID:e3a03b65-5edb-4b4a-ac4e-4e685c0b8f3e@e3a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231010
-SUMMARY:Final Examinations | 7-Week Session 1
-UID:4e24e5bd-e530-4f51-af08-8de9bf5b1226@4e24.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241008
-SUMMARY:Final Examinations | 7-Week Session 1
-UID:1f6f1b35-1ccf-482f-bb30-77cc4b8768b3@1f6f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250728
-SUMMARY:Final Exams | Summer Full Term Session
-UID:b7275c45-d56a-48f9-966b-680be2da4186@b727.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241127
-DESCRIPTION:No classes\, offices open | autumn full term\, 7-week session 2
-SUMMARY:Thanksgiving Break Begins
-UID:7955c6e8-5383-4d4b-a529-06293fd7d952@7955.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231225
-DESCRIPTION:Offices closed | spring term/sessions
-SUMMARY:Christmas Day Observed
-UID:11a968c8-4dd4-4e61-9d92-edf4d17e151c@11a9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250423
-DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
-SUMMARY:Final Examinations
-UID:699e3601-af9f-48b8-8fe6-26313905dc16@699e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250630
-SUMMARY:First Day Of Classes | 4-Week Session 3
-UID:6e3e1034-17b5-4579-ad48-1fc85d6544a8@6e3e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240314
-DESCRIPTION:No classes\, offices open | spring full term\, 7-week session 2
-SUMMARY:Spring Break
-UID:4d4827fc-4bb6-4254-8665-29a7e2d954fa@4d48.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240219
-SUMMARY:Registration Opens- Refer To Buckeye Link For Enrollment Appointment | Summer Term/Sessions
-UID:102be0b4-1c37-4d29-b280-5cadaa82e3f9@102b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231212
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
-UID:94e5d32d-011c-4bac-924c-8e490159f368@94e5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241225
-DESCRIPTION:Offices closed | spring term/sessions
-SUMMARY:Christmas Day Observed
-UID:a7d2f0b1-fa72-4761-a847-56e66d3dc300@a7d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241028
-DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 7-week session 2
-SUMMARY:Census Date
-UID:6ba9665b-b0ec-4059-8a6f-b7fe1bd0519d@6ba9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250311
-DESCRIPTION:No classes\, offices open | spring full term\, 7-week session 2
-SUMMARY:Spring Break
-UID:da61f481-86eb-47ff-ab30-3298d73d7ce0@da61.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230523
-DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | summer full term session\, 6-week session 1\, 8-week session 1\, 4-week session 1
-SUMMARY:Census Date
-UID:1c0ae85c-e38c-4a8e-a6b1-686b336f96e3@1c0a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231226
-DESCRIPTION:Offices closed | spring term/sessions
-SUMMARY: Presidents Day Observed
-UID:b8bad5e7-9240-47ff-a2f2-9f95dc5b8b23@b8ba.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240312
-DESCRIPTION:No classes\, offices open | spring full term\, 7-week session 2
-SUMMARY:Spring Break
-UID:7f711ca0-45ae-410e-a7df-ecfe1eba2902@7f71.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250429
-DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
-SUMMARY:Final Examinations
-UID:97f7b8fd-e58d-4b3e-8339-b8e21d6dfa11@97f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240614
-DESCRIPTION:Finals for session courses may be designation to other dates | 6-week session 1
-SUMMARY:Last Day Of Classes And Final Exams
-UID:6aed90ce-4e65-4950-9417-63924d5eee41@6aed.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240804
-SUMMARY:Commencement | Summer Term/Sessions
-UID:be354eff-ef79-40ff-af99-34e35fcd11da@be35.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231012
-DESCRIPTION:No classes\, offices open october 12-13 | autumn full term\, 7-week session 2
-SUMMARY:Autumn Break
-UID:0c9d24ad-3b13-4395-bb5d-78d209bb8c06@0c9d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230320
-SUMMARY:Registration Opens- Refer To Buckeye Link For Enrollment Appointment | Autumn Term/Sessions
-UID:1ed5ca2a-65bc-4559-b455-ac5cb23a1382@1ed5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240603
-SUMMARY:First Day Of Classes | 8-Week Session 2\, 4-Week Session 2
-UID:f68c570e-7faf-4fdf-badd-9935b9545425@f68c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241204
-SUMMARY:Last Day Of Classes | Autumn Full Term\, 7-Week Session 2
-UID:5a656e41-eb20-4b8e-ae59-d7a13874a70b@5a65.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250602
-SUMMARY:First Day Of Classes | 8-Week Session 2\, 4-Week Session 2
-UID:ca51606c-6475-4b85-a658-a577c78b2c29@ca51.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240726
-DESCRIPTION:Finals for session courses may be designation to other dates | 6-week session 2\, 8-week session 2\, 4-week session 3
-SUMMARY:Last Day Of Classes And Final Exams
-UID:8d0b6dce-5e48-4ca3-8817-993dfacf0c8f@8d0b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231207
-SUMMARY:Reading Day  | Autumn Full Term\, 7-Week Session 2
-UID:a1ca2cd8-7b91-4bf0-bf1c-608b3e9e9b8a@a1ca.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241111
-DESCRIPTION:No classes\, offices closed | autumn full term\, 7-week session 2
-SUMMARY:Veteran'S Day
-UID:659397df-f16a-424c-8db9-2bef9b94442e@6593.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250312
-DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date.) | 7-week session 2
-SUMMARY:Census Date
-UID:3ddfc596-3438-4c9e-8d3c-694bae2a3866@3ddf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241215
-SUMMARY:Commencement | Autumn Term/Sessions
-UID:e797c06b-415e-4676-825d-15ea426bc0e0@e797.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250120
-DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date.) | spring full term\, 7-week session 1
-SUMMARY: Census Date
-UID:70ce436a-601a-4b4a-90de-12926f084ce7@70ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250424
-DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
-SUMMARY:Final Examinations
-UID:b8ec084e-2d8a-42e6-af39-bfecf6260c98@b8ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230905
-DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | autumn full term\, 7-week session 1
-SUMMARY:Census Date
-UID:a86ee521-5d60-4830-af3e-7772c6a00a53@a86e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250224
-DESCRIPTION:Finals for session courses may be designated to other dates | 7-week session 1
-SUMMARY:Final Examinations
-UID:88b8f1b7-4326-4350-ab2c-177f28506005@88b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241211
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
-UID:d5e20839-51c2-4a09-9ca7-083b05c15737@d5e2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230630
-DESCRIPTION:Finals for session courses may be designation to other dates | 8-week session 1\, 4-week session 2
-SUMMARY:Last Day Of Classes And Final Exams
-UID:378253ad-d9e6-422d-bcfb-178bd634a46d@3782.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240424
-DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
-SUMMARY:Final Examinations
-UID:d6c597ce-d070-48fc-a14d-0a216b42de7a@d6c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240228
-SUMMARY:First Day Of Classes  | 7-Week Session 2
-UID:443486a4-7b94-489a-98fb-86bd5ebf6afa@4434.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230731
-SUMMARY:Final Exams | Summer Full Term Session
-UID:93c54a6a-98fa-49a8-bedd-99fd7c0125dc@93c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231122
-DESCRIPTION:No classes\, offices open | autumn full term\, 7-week session 2
-SUMMARY:Thanksgiving Break Begins
-UID:7d71cfbf-21c1-4a8b-b81a-6f3b7d611f03@7d71.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231124
-DESCRIPTION:No classes\, offices closed | autumn full term\, 7-week session 2
-SUMMARY:Indigenous Peoples Day/Columbus Day (Observed)
-UID:9f9aa2ff-d201-4ea6-b79c-e0420998b37c@9f9a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240108
-SUMMARY:First Day Of Classes  | Spring Full Term\, 7-Week Session 1
-UID:964b5d10-634b-4d2a-87fd-c7b961970578@964b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-DESCRIPTION:Offices closed | spring term/sessions
-SUMMARY:New Year'S Day
-UID:8f1c6abd-111f-4979-898e-ba71bedc120f@8f1c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240729
-SUMMARY:Final Exams | Summer Full Term Session
-UID:81121b46-f445-4eee-a226-aad412a87225@8112.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250520
-DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | summer full term session\, 6-week session 1\, 8-week session 1\, 4-week session 1
-SUMMARY:Census Date
-UID:5cf4ea4d-8267-4497-a815-79227d60a45f@5cf4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240701
-SUMMARY:First Day Of Classes | 4-Week Session 3
-UID:df2709fd-e9bc-408d-883e-02be30c46fd5@df27.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250729
-SUMMARY:Final Exams | Summer Full Term Session
-UID:ae44a271-d37a-42de-b691-82e20ec4fc94@ae44.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250225
-DESCRIPTION:Finals for session courses may be designated to other dates | 7-week session 1
-SUMMARY:Final Examinations
-UID:75bd1537-9982-4aa3-8e18-97bdd41c5032@75bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250312
-DESCRIPTION:No classes\, offices open | spring full term\, 7-week session 2
-SUMMARY:Spring Break
-UID:846987fe-cee9-41c9-8c2e-0119de37f79a@8469.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240730
-SUMMARY:Final Exams | Summer Full Term Session
-UID:83b77aa1-f344-4267-b657-6a95dc14cd5f@83b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241014
-SUMMARY:First Day Of Classes | 7-Week Session 2
-UID:88c94766-66d4-45a2-8111-2d98ab9bb874@88c9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250421
-SUMMARY:Last Day Of Classes | Spring Full Term\, 7-Week Session 2
-UID:34623f13-8790-411a-88f4-2f8ce51338d0@3462.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241205
 SUMMARY:Reading Day  | Autumn Full Term\, 7-Week Session 2
-UID:0fe40e43-63c8-4ba4-89af-036622a7eba7@0fe4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231123
-DESCRIPTION:No classes\, offices closed | autumn full term\, 7-week session 2
-SUMMARY:Thanksgiving Day
-UID:a5fbf5cf-8ade-490e-b076-a5d7b143e331@a5fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241009
-SUMMARY:Final Examinations | 7-Week Session 1
-UID:722c9fa1-289e-4bcd-83ea-1522366230e3@722c.org
+UID:071e0883-68af-4adb-9caf-b89a27e3e8c4@071e.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250310
 DESCRIPTION:No classes\, offices open | spring full term\, 7-week session 2
 SUMMARY:Spring Break
-UID:f8d28de8-3ff3-493e-a4dc-956f18e2a18b@f8d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240820
-SUMMARY:First Day Of Classes | Autumn Full Term\, 7-Week Session 1
-UID:1967814c-cbaf-42f2-ad7c-e49306bbdb93@1967.org
+UID:1a333cbe-0bac-49c2-8514-53b9377923a0@1a33.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240507
 SUMMARY:First Day Of Classes | Summer Full Term Session\, 6-Week Session 1\, 8-Week Session 1\, 4-Week Session 1
-UID:d640085a-4ad4-43a9-99ac-6e5596760dc3@d640.org
+UID:618688af-620f-4d6d-afb7-16a0b14d011d@6186.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230802
-SUMMARY:Final Exams | Summer Full Term Session
-UID:7fb59b28-ad0b-4eea-a830-fb6be492b6b6@7fb5.org
+DTSTART;VALUE=DATE:20230630
+DESCRIPTION:Finals for session courses may be designation to other dates | 8-week session 1\, 4-week session 2
+SUMMARY:Last Day Of Classes And Final Exams
+UID:33f1cf03-ce51-423b-9811-62ef097227f6@33f1.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250425
-DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
-SUMMARY:Final Examinations
-UID:d64a9c31-457c-464b-bf5d-13c65d19a742@d64a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230509
-SUMMARY:First Day Of Classes | Summer Full Term Session\, 6-Week Session 1\, 8-Week Session 1\, 4-Week Session 1
-UID:2c934a91-0a32-4469-a419-9690e55a4b52@2c93.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241224
-DESCRIPTION:Offices closed | spring term/sessions
-SUMMARY: Presidents Day Observed
-UID:5240d064-5199-4fd4-a5df-3c4a83e7fe87@5240.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250313
-DESCRIPTION:No classes\, offices open | spring full term\, 7-week session 2
-SUMMARY:Spring Break
-UID:eb697df6-624d-4c9f-bb65-e00f5bb96796@eb69.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240315
-DESCRIPTION:No classes\, offices open | spring full term\, 7-week session 2
-SUMMARY:Spring Break
-UID:76d19bf1-8059-49b2-abec-2f0ef2cc4491@76d1.org
+DTSTART;VALUE=DATE:20240422
+SUMMARY:Last Day Of Classes | Spring Full Term\, 7-Week Session 2
+UID:8c287f41-b721-4627-98de-3f2877fdfdca@8c28.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250314
 DESCRIPTION:No classes\, offices open | spring full term\, 7-week session 2
 SUMMARY:Spring Break
-UID:e044f2e7-b79f-4810-885e-f6bae35b2b48@e044.org
+UID:afee6db6-662c-4e15-b707-216da565e623@afee.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240628
-DESCRIPTION:Finals for session courses may be designation to other dates | 8-week session 1\, 4-week session 2
-SUMMARY:Last Day Of Classes And Final Exams
-UID:35250441-793d-4729-9ea2-f25830a702b9@3525.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230822
-SUMMARY:First Day Of Classes | Autumn Full Term\, 7-Week Session 1
-UID:a203339e-19e0-46a8-afc7-88dbab6b746a@a203.org
+DTSTART;VALUE=DATE:20240731
+SUMMARY:Final Exams | Summer Full Term Session
+UID:7f527cd4-8ec8-43d4-b7e7-28ffdba85dc4@7f52.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250530
 DESCRIPTION:Finals for session courses may be designation to other dates | 4-week session 1
 SUMMARY:Last Day Of Classes And Final Exams
-UID:6f438e1d-9e46-491a-b05b-639f7031314e@6f43.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231213
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
-UID:4ae1f4b6-4ab8-44a9-b696-948edb8a4194@4ae1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250616
-SUMMARY:First Day Of Classes | 6-Week Session 2
-UID:ca360ad3-b988-4747-b7fe-b06da54f3bb2@ca36.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240531
-DESCRIPTION:Finals for session courses may be designation to other dates | 4-week session 1
-SUMMARY:Last Day Of Classes And Final Exams
-UID:470db8b4-46ed-4801-8ebc-695f0fbb6d70@470d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240427
-DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
-SUMMARY:Final Examinations
-UID:d8f6dc48-466e-4945-8669-f627a9365c54@d8f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250526
-DESCRIPTION:No classes\, office closed | summer term/sessions
-SUMMARY:Memorial Day
-UID:5d2415e3-2cfd-44ca-ae75-50096c416644@5d24.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230602
-DESCRIPTION:Finals for session courses may be designation to other dates | 4-week session 1
-SUMMARY:Last Day Of Classes And Final Exams
-UID:2a216af9-431f-4568-8cb8-b31ea4fd490e@2a21.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240619
-DESCRIPTION:No classes\, offices closed | summer term/sessions
-SUMMARY:Juneteenth National Independence Day
-UID:bf17e61f-27f0-47bc-bae8-178890c65521@bf17.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230904
-DESCRIPTION:No classes\, offices closed | autumn full term\, 7-week session 1
-SUMMARY:Labor Day
-UID:d571c9cb-f8af-4081-84de-690e635a98b9@d571.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250426
-DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
-SUMMARY:Final Examinations
-UID:39a132ae-11e5-4255-86be-22047282e346@39a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241212
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
-UID:d2ecb0b3-4317-4b10-b12c-d2491ead2ca9@d2ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240505
-SUMMARY:Commencement | Spring Term/Sessions
-UID:750fa2bc-e301-4ed9-8ab5-9e9d67856c27@750f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230529
-DESCRIPTION:No classes\, office closed | summer term/sessions
-SUMMARY:Memorial Day
-UID:6d0de064-5d2e-4d19-81d8-ed4e635fde4d@6d0d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241010
-DESCRIPTION:No classes\, offices open  | autumn full term\, 7-week session 2
-SUMMARY:Autumn Break October 10-11
-UID:97683b5f-4a5f-44de-8cc5-2de27f8c33fa@9768.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230619
-DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 8-week session 2\, 4-week session 2
-SUMMARY:Census Date
-UID:dde44ff1-d25d-44ce-aa81-4cfaf3ddd34e@dde4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240311
-DESCRIPTION:No classes\, offices open | spring full term\, 7-week session 2
-SUMMARY:Spring Break
-UID:541601c6-c8fb-4042-a869-c7b9e1045975@5416.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250106
-SUMMARY:First Day Of Classes  | Spring Full Term\, 7-Week Session 1
-UID:622435bf-cffe-4cc6-b5a0-6b792bbeba67@6224.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250627
-DESCRIPTION:Finals for session courses may be designation to other dates | 8-week session 1\, 4-week session 2
-SUMMARY:Last Day Of Classes And Final Exams
-UID:aab410a1-dd78-4590-997d-c90f46d0f888@aab4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230704
-DESCRIPTION:No classes\, office closed | summer term/sessions
-SUMMARY:Independence Day Observed
-UID:6a71e71c-57cc-4205-bd84-d9d24920ed32@6a71.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230616
-DESCRIPTION:Finals for session courses may be designation to other dates | 6-week session 1
-SUMMARY:Last Day Of Classes And Final Exams
-UID:a950f30e-b745-4a0c-9fb1-0b4d1c00dddf@a950.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240617
-DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 8-week session 2\, 4-week session 2
-SUMMARY:Census Date
-UID:2de4602c-d6f0-4f17-b093-2d04b819f747@2de4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230703
-SUMMARY:First Day Of Classes | 4-Week Session 3
-UID:3d75f42c-0b73-474e-a3f9-564edd83f14b@3d75.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240223
-SUMMARY:Last Day Of Classes | 7-Week Session 1
-UID:52f304c6-1dde-42dc-a2b9-3b2775c1b441@52f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250730
-SUMMARY:Final Exams | Summer Full Term Session
-UID:b7dad4f6-0075-495f-a9c0-0167686543b2@b7da.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230801
-SUMMARY:Final Exams | Summer Full Term Session
-UID:cd7e7fd7-c086-4387-9c11-ee577a1ae05b@cd7e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230806
-SUMMARY:Commencement | Summer Term/Sessions
-UID:a3537a40-3b77-4e64-a221-13252de1a5b1@a353.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240423
-SUMMARY:Reading Day  | Spring Full Term\, 7-Week Session 2
-UID:5cc673b3-7e1b-4b9b-9aa8-2b865f9d2829@5cc6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250120
-DESCRIPTION:No classes\, offices closed | spring full term\, 7-week session 1
-SUMMARY:Martin Luther King Day
-UID:8157ca94-e1c0-41c1-ac45-6e6a49145d88@8157.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250704
-DESCRIPTION:No classes\, office closed | summer term/sessions
-SUMMARY:Independence Day Observed
-UID:4b50cb3a-9a82-422f-a4b4-b87fea149df6@4b50.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230620
-SUMMARY:First Day Of Classes | 6-Week Session 2
-UID:cab931ae-5ff5-4a4f-99ad-2f2897f504f9@cab9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231206
-SUMMARY:Last Day Of Classes | Autumn Full Term\, 7-Week Session 2
-UID:5ed60660-9b67-4e1f-9d5e-3e8a9adf9d83@5ed6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240429
-DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
-SUMMARY:Final Examinations
-UID:fa7e5f70-5de5-4ba3-b149-6685d2b2af2d@fa7e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240226
-DESCRIPTION:Finals for session courses may be designated to other dates | 7-week session 1
-SUMMARY:Final Examinations
-UID:88aeaa7a-5cda-43ca-92dd-72ea74163948@88ae.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230728
-SUMMARY:Last Day Of Classes | Summer Full Term Session
-UID:3d9f6663-004f-44e7-827f-04cc7805af4c@3d9f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240428
-DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
-SUMMARY:Final Examinations
-UID:91c06365-7248-4c61-9c4d-726c4e3a0c9e@91c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231208
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
-UID:d8948d94-0756-4e81-bad0-3fb157952199@d894.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240617
-SUMMARY:First Day Of Classes | 6-Week Session 2
-UID:3c4b3565-0495-4120-bcf8-6ee2033e08e8@3c4b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250221
-SUMMARY:Last Day Of Classes | 7-Week Session 1
-UID:c3113f22-40f0-41b7-87d7-bfe6071d1854@c311.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241129
-DESCRIPTION:No classes\, offices closed | autumn full term\, 7-week session 2
-SUMMARY:Indigenous Peoples Day/Columbus Day (Observed)
-UID:7827c574-1361-4229-91b6-b1581212368c@7827.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241210
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
-UID:e979a37a-f2b7-4b06-9596-ce85bfb9c5e0@e979.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231011
-SUMMARY:Final Examinations | 7-Week Session 1
-UID:0ee3a8cf-b46f-4ef9-aff6-74fe952ecdbf@0ee3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241209
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
-UID:6d255988-1796-4f86-92fc-797c8869bd53@6d25.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230605
-SUMMARY:First Day Of Classes | 8-Week Session 2\, 4-Week Session 2
-UID:55a4719f-5dfe-4457-b221-e48dac1f77b4@55a4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240101
-DESCRIPTION:Offices closed | spring term/sessions
-SUMMARY:New Year'S Day
-UID:fa6d4b7d-14b7-44e0-9e98-0ce8fad7e4d6@fa6d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241007
-SUMMARY:Last Day Of Classes | 7-Week Session 1
-UID:b2ea89de-4a1c-42e7-a2f8-d36e46c0f3a7@b2ea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240521
-DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | summer full term session\, 6-week session 1\, 8-week session 1\, 4-week session 1
-SUMMARY:Census Date
-UID:dfcb99e7-66c7-437b-96e3-eb3bd3ae1e91@dfcb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240430
-DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
-SUMMARY:Final Examinations
-UID:f76ad88c-d62a-4e76-b8db-461466636a75@f76a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231211
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
-UID:864fcd98-b01c-4422-b1be-d3087498b85d@864f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240704
-DESCRIPTION:No classes\, office closed | summer term/sessions
-SUMMARY:Independence Day Observed
-UID:35607fd7-b7e7-4a9b-9d13-d1dc3d650d75@3560.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240902
-DESCRIPTION:No classes\, offices closed | autumn full term\, 7-week session 1
-SUMMARY:Labor Day
-UID:ed2b06dd-a59d-402e-ba64-69be5fd5c198@ed2b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230619
-DESCRIPTION:No classes\, offices closed | summer term/sessions
-SUMMARY:Juneteenth National Independence Day
-UID:976a7a13-796f-4998-9fe8-64d5e57122c1@976a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250427
-DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
-SUMMARY:Final Examinations
-UID:2141cdcf-98c0-48df-9c42-77ab479c3f74@2141.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250619
-DESCRIPTION:No classes\, offices closed | summer term/sessions
-SUMMARY:Juneteenth National Independence Day
-UID:b182ec7c-8075-43d1-9910-b58078b5014e@b182.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231013
-DESCRIPTION:No classes\, offices open october 12-13 | autumn full term\, 7-week session 2
-SUMMARY:Autumn Break
-UID:e964a87a-1faf-48fb-812e-05e97a6cf492@e964.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231217
-SUMMARY:Commencement | Autumn Term/Sessions
-UID:3a6dc59b-993b-403c-98c2-ac613203922c@3a6d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250428
-DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
-SUMMARY:Final Examinations
-UID:3645e142-1232-4c15-8235-231491dea833@3645.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240422
-SUMMARY:Last Day Of Classes | Spring Full Term\, 7-Week Session 2
-UID:1baadb47-3a37-46f3-9586-b0cf2d92966f@1baa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240426
-DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
-SUMMARY:Final Examinations
-UID:33534166-d30e-4d2c-b969-c4c47eaf72ca@3353.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231110
-DESCRIPTION:No classes\, offices closed | autumn full term\, 7-week session 2
-SUMMARY:Veteran'S Day
-UID:2dc46d8e-0d7d-49e4-a02d-99a3c9ef0a3c@2dc4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250616
-DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 8-week session 2\, 4-week session 2
-SUMMARY:Census Date
-UID:200c2aef-b479-43f0-8261-334f1f3749e0@200c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250226
-SUMMARY:First Day Of Classes  | 7-Week Session 2
-UID:de7d9665-fa15-4507-ba58-2d81f8ff651c@de7d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230728
-DESCRIPTION:Finals for session courses may be designation to other dates | 6-week session 2\, 8-week session 2\, 4-week session 3
-SUMMARY:Last Day Of Classes And Final Exams
-UID:36e0962e-12e4-4f36-aee6-a45d0910e6e6@36e0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230717
-DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 4-week session 3
-SUMMARY:Census Date
-UID:c2de1241-017a-4481-a067-06cc03e031eb@c2de.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240115
-DESCRIPTION:No classes\, offices closed | spring full term\, 7-week session 1
-SUMMARY:Martin Luther King Day
-UID:61eb9a78-151d-480b-aeca-5e0275b0a2e3@61eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240313
-DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date.) | 7-week session 2
-SUMMARY:Census Date
-UID:93419165-2fe8-49c9-b760-a3275080170e@9341.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250725
-DESCRIPTION:Finals for session courses may be designation to other dates | 6-week session 2\, 8-week session 2\, 4-week session 3
-SUMMARY:Last Day Of Classes And Final Exams
-UID:c52915f1-25e8-453e-80c7-36fb7af001c4@c529.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241206
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
-UID:386eb462-2c16-4edb-bcbb-3fb1424591ac@386e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231016
-SUMMARY:First Day Of Classes | 7-Week Session 2
-UID:8c9c8be0-1d8f-4ad5-8bc5-6ff1191ad0e1@8c9c.org
+UID:aef3230f-986e-4488-8439-c49a831ee485@aef3.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240227
 DESCRIPTION:Finals for session courses may be designated to other dates | 7-week session 1
 SUMMARY:Final Examinations
-UID:63fe3313-ec84-4f4b-9a07-1219aab4616f@63fe.org
+UID:2ab4e79e-6846-4c3e-97ed-9a4972dcccaa@2ab4.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250613
-DESCRIPTION:Finals for session courses may be designation to other dates | 6-week session 1
+DTSTART;VALUE=DATE:20241225
+DESCRIPTION:Offices closed | spring term/sessions
+SUMMARY:Christmas Day Observed
+UID:f32d4d44-0a28-42ac-80e7-c6186e0b2d97@f32d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241212
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
+UID:c85400a0-a3f9-43ce-92c9-ff0a34d17086@c854.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231012
+DESCRIPTION:No classes\, offices open october 12-13 | autumn full term\, 7-week session 2
+SUMMARY:Autumn Break
+UID:12675e02-fe29-448a-a1a8-8fd0734b40e1@1267.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240531
+DESCRIPTION:Finals for session courses may be designation to other dates | 4-week session 1
 SUMMARY:Last Day Of Classes And Final Exams
-UID:4636b80d-fc57-4421-a150-e2c5b98714af@4636.org
+UID:9e39de20-5b10-41f0-8688-9925515966d0@9e39.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240428
+DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
+SUMMARY:Final Examinations
+UID:ff043b44-5d63-4ce0-9535-891ee2e9b7b2@ff04.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240315
+DESCRIPTION:No classes\, offices open | spring full term\, 7-week session 2
+SUMMARY:Spring Break
+UID:250f7eda-e968-45cc-b3bd-7032a6089e91@250f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240429
+DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
+SUMMARY:Final Examinations
+UID:ce51a40a-ccc4-48f3-a147-278c09c711a6@ce51.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240228
+SUMMARY:First Day Of Classes  | 7-Week Session 2
+UID:114c8f0f-ba80-4612-854f-2855af982e05@114c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240521
+DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | summer full term session\, 6-week session 1\, 8-week session 1\, 4-week session 1
+SUMMARY:Census Date
+UID:3b431644-4220-43fe-80e8-7063ba308625@3b43.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230728
+DESCRIPTION:Finals for session courses may be designation to other dates | 6-week session 2\, 8-week session 2\, 4-week session 3
+SUMMARY:Last Day Of Classes And Final Exams
+UID:212c1b0d-f418-4033-a28e-79aec7eefbeb@212c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230802
+SUMMARY:Final Exams | Summer Full Term Session
+UID:d713b98f-4c5d-4b7a-a27c-f38a25672493@d713.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240505
+SUMMARY:Commencement | Spring Term/Sessions
+UID:a985ae66-f0fe-4e22-be56-1d3f23b4755b@a985.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230717
+DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 4-week session 3
+SUMMARY:Census Date
+UID:6e6c80b6-1b5f-4cd3-bfd2-4f1e2537cfeb@6e6c.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240527
 DESCRIPTION:No classes\, office closed | summer term/sessions
 SUMMARY:Memorial Day
-UID:3e985136-7245-4e1e-b6a8-43afb9e0e093@3e98.org
+UID:53e03891-1689-4605-a771-d1592880e5e7@53e0.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240731
-SUMMARY:Final Exams | Summer Full Term Session
-UID:50105c8e-5f52-4278-9183-a2bde991aa29@5010.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240313
-DESCRIPTION:No classes\, offices open | spring full term\, 7-week session 2
-SUMMARY:Spring Break
-UID:9bbcdbbb-dbfb-4ff3-8fd1-a6f16a082dd3@9bbc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240715
-DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 4-week session 3
-SUMMARY:Census Date
-UID:5857228c-22b5-45bb-9969-64b99f76f114@5857.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231214
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
-UID:798c8104-296f-4d1e-ac16-99f3853db562@798c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250504
-SUMMARY:Commencement | Spring Term/Sessions
-UID:f2435414-47f0-4a5d-85d7-97042e42bcf7@f243.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250630
-DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 6-week session 2
-SUMMARY:Census Date
-UID:3265ab5a-17b1-4e34-b73e-7132d169d378@3265.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241128
-DESCRIPTION:No classes\, offices closed | autumn full term\, 7-week session 2
-SUMMARY:Thanksgiving Day
-UID:e9be96ce-58a2-436a-be94-d32da6fc214c@e9be.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231009
-SUMMARY:Last Day Of Classes | 7-Week Session 1
-UID:022a1efb-8b74-438d-990b-f6469932a3cc@022a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231030
-DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 7-week session 2
-SUMMARY:Census Date
-UID:10aedbf4-a6b6-40a0-bdfb-8cb93f527dd5@10ae.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240903
-DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | autumn full term\, 7-week session 1
-SUMMARY:Census Date
-UID:e40cea6f-f556-4391-8e8a-b77cc18735fe@e40c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240701
-DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 6-week session 2
-SUMMARY:Census Date
-UID:53c64003-c90f-43b5-b452-364f77fb95db@53c6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240425
-DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
-SUMMARY:Final Examinations
-UID:664e0576-91cd-44e8-b2b1-36d9422d25fb@664e.org
+DTSTART;VALUE=DATE:20240617
+SUMMARY:First Day Of Classes | 6-Week Session 2
+UID:339b2edd-8713-47a4-b4b9-e727b2b00f28@339b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240122
 DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date.) | spring full term\, 7-week session 1
 SUMMARY: Census Date
-UID:0760c8ce-fbe3-44ae-9e4b-65d9f3ca872a@0760.org
+UID:aa1fc595-cc1d-42a9-988b-0f4591ccace9@aa1f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250120
+DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date.) | spring full term\, 7-week session 1
+SUMMARY: Census Date
+UID:4c862ad6-5c83-4ec0-9d96-9d24ac60d64d@4c86.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250311
+DESCRIPTION:No classes\, offices open | spring full term\, 7-week session 2
+SUMMARY:Spring Break
+UID:0b2b8415-80e4-4f38-85d9-9f08aa1c2098@0b2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241009
+SUMMARY:Final Examinations | 7-Week Session 1
+UID:a3564163-9ccc-4fcc-b3fb-f3dcfae86ce7@a356.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250504
+SUMMARY:Commencement | Spring Term/Sessions
+UID:f79cc467-56e2-44ab-aedb-c5b5b70541d6@f79c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231009
+SUMMARY:Last Day Of Classes | 7-Week Session 1
+UID:8d61bd2b-92ec-42fb-bf1c-9ac2346a6996@8d61.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230529
+DESCRIPTION:No classes\, office closed | summer term/sessions
+SUMMARY:Memorial Day
+UID:0f84ae30-9b9b-4f43-8cb0-4fad6e216036@0f84.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241224
+DESCRIPTION:Offices closed | spring term/sessions
+SUMMARY: Presidents Day Observed
+UID:64a65f0b-2430-4dac-b488-2b1b2eac89c2@64a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250630
+DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 6-week session 2
+SUMMARY:Census Date
+UID:c76cc5ce-9ea2-44b6-9398-3cf4c00db33f@c76c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231030
+DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 7-week session 2
+SUMMARY:Census Date
+UID:b41328f0-69b6-45f6-bedf-aa10b6abc557@b413.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240804
+SUMMARY:Commencement | Summer Term/Sessions
+UID:86c59e2c-953e-4a38-afc1-9b22e50463d6@86c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+DESCRIPTION:No classes\, offices closed | autumn full term\, 7-week session 1
+SUMMARY:Labor Day
+UID:0c8b01f4-78d3-4df6-8d97-c9dd2ec37d03@0c8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250225
+DESCRIPTION:Finals for session courses may be designated to other dates | 7-week session 1
+SUMMARY:Final Examinations
+UID:65bb2810-6183-4199-8751-7f696efedc77@65bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250526
+DESCRIPTION:No classes\, office closed | summer term/sessions
+SUMMARY:Memorial Day
+UID:b0b46cb3-ed77-485c-aace-f11ee5ed093d@b0b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230509
+SUMMARY:First Day Of Classes | Summer Full Term Session\, 6-Week Session 1\, 8-Week Session 1\, 4-Week Session 1
+UID:dd9c4547-da8d-4c8f-847e-9d0e650576b3@dd9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240108
+SUMMARY:First Day Of Classes  | Spring Full Term\, 7-Week Session 1
+UID:5484a6bd-2594-4e77-9744-69ff4fe4bba5@5484.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230605
+SUMMARY:First Day Of Classes | 8-Week Session 2\, 4-Week Session 2
+UID:d30cfa4f-dc5e-49c0-8375-230811baec37@d30c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231123
+DESCRIPTION:No classes\, offices closed | autumn full term\, 7-week session 2
+SUMMARY:Thanksgiving Day
+UID:f5c22a89-f297-484e-b944-689a9e3c7fba@f5c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240424
+DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
+SUMMARY:Final Examinations
+UID:c0a22712-3719-429d-afe9-03182f99f6d8@c0a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250423
+DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
+SUMMARY:Final Examinations
+UID:69e31bd0-c59d-49b3-a53d-90c40556f383@69e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250424
+DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
+SUMMARY:Final Examinations
+UID:7709865e-90cc-4436-9a4b-81dbc992b778@7709.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241206
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
+UID:ebf48dfa-bc37-4f8e-850b-c5cf83fa7de5@ebf4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241215
+SUMMARY:Commencement | Autumn Term/Sessions
+UID:009f1fd9-de60-4b20-86aa-a93b7f62eb2b@009f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250425
+DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
+SUMMARY:Final Examinations
+UID:3635cda2-db3d-484f-9569-781fadb88b2d@3635.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230904
+DESCRIPTION:No classes\, offices closed | autumn full term\, 7-week session 1
+SUMMARY:Labor Day
+UID:e13f8f9c-d719-4e63-aeeb-2270f21d49ba@e13f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231110
+DESCRIPTION:No classes\, offices closed | autumn full term\, 7-week session 2
+SUMMARY:Veteran'S Day
+UID:8c1d6ec6-49c9-4816-b6ba-58583d2990d8@8c1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231225
+DESCRIPTION:Offices closed | spring term/sessions
+SUMMARY:Christmas Day Observed
+UID:97c33a55-3234-4a03-a081-da948c150f58@97c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250602
+SUMMARY:First Day Of Classes | 8-Week Session 2\, 4-Week Session 2
+UID:929e5dfb-52da-46a7-b26a-d85210efa7f1@929e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231207
+SUMMARY:Reading Day  | Autumn Full Term\, 7-Week Session 2
+UID:4960b335-10e1-4d4f-9c9b-bcb37dd9f01f@4960.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241128
+DESCRIPTION:No classes\, offices closed | autumn full term\, 7-week session 2
+SUMMARY:Thanksgiving Day
+UID:1499b7f2-0a2d-41e8-9b9e-c716c6f29eea@1499.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250221
+SUMMARY:Last Day Of Classes | 7-Week Session 1
+UID:03c4a10d-d96f-4d0f-9101-7a66d30e7f3a@03c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241204
+SUMMARY:Last Day Of Classes | Autumn Full Term\, 7-Week Session 2
+UID:ce08c025-6384-4539-96b9-924ee47b5ea9@ce08.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240614
+DESCRIPTION:Finals for session courses may be designation to other dates | 6-week session 1
+SUMMARY:Last Day Of Classes And Final Exams
+UID:7a067f57-e4ee-4796-9beb-e1979ec2314e@7a06.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240619
+DESCRIPTION:No classes\, offices closed | summer term/sessions
+SUMMARY:Juneteenth National Independence Day
+UID:d1969745-b94f-4e32-bcff-5dbe663be635@d196.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241129
+DESCRIPTION:No classes\, offices closed | autumn full term\, 7-week session 2
+SUMMARY:Indigenous Peoples Day/Columbus Day (Observed)
+UID:7739c5e3-893c-4f1b-aa8f-da379fad97df@7739.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250427
+DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
+SUMMARY:Final Examinations
+UID:e6373aec-9d95-44ba-8bf2-bc65d63cd7a5@e637.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250627
+DESCRIPTION:Finals for session courses may be designation to other dates | 8-week session 1\, 4-week session 2
+SUMMARY:Last Day Of Classes And Final Exams
+UID:d8fd0511-e588-44d2-a794-8cd2d3ea4ed0@d8fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230616
+DESCRIPTION:Finals for session courses may be designation to other dates | 6-week session 1
+SUMMARY:Last Day Of Classes And Final Exams
+UID:582bc155-0fcd-4eb3-bb0c-ba305b65011c@582b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240701
+DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 6-week session 2
+SUMMARY:Census Date
+UID:5c684c3c-7661-4b31-8336-370f9af8bf32@5c68.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250120
+DESCRIPTION:No classes\, offices closed | spring full term\, 7-week session 1
+SUMMARY:Martin Luther King Day
+UID:1b7489f6-aafb-41b6-8e43-5e402acd0d6f@1b74.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240617
+DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 8-week session 2\, 4-week session 2
+SUMMARY:Census Date
+UID:8111fd46-a8db-4aee-a440-0d556c4df618@8111.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241211
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
+UID:30f88441-133f-41bf-9805-0cc64830937e@30f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230704
+DESCRIPTION:No classes\, office closed | summer term/sessions
+SUMMARY:Independence Day Observed
+UID:14e21b98-c10f-48fb-8f29-4946ce996015@14e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240426
+DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
+SUMMARY:Final Examinations
+UID:07854f84-b191-4663-8025-9e444e54c069@0785.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240423
+SUMMARY:Reading Day  | Spring Full Term\, 7-Week Session 2
+UID:7562c2de-06bf-4de1-9934-0bde4a2f3d20@7562.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230703
+SUMMARY:First Day Of Classes | 4-Week Session 3
+UID:bbf7858a-b661-4e12-b911-c4a5c590a7f9@bbf7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240312
+DESCRIPTION:No classes\, offices open | spring full term\, 7-week session 2
+SUMMARY:Spring Break
+UID:87aa964e-8893-4ca9-b866-8530da5055db@87aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240425
+DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
+SUMMARY:Final Examinations
+UID:9309d631-2f42-406d-9222-ade17ecd4984@9309.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240313
+DESCRIPTION:No classes\, offices open | spring full term\, 7-week session 2
+SUMMARY:Spring Break
+UID:45c7cbc3-6ca5-4eea-b40d-fb36a011c6bb@45c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231226
+DESCRIPTION:Offices closed | spring term/sessions
+SUMMARY: Presidents Day Observed
+UID:0ae45ebe-a109-4d32-b2f5-0d7aa6e156ec@0ae4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250428
+DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
+SUMMARY:Final Examinations
+UID:c6b08ea4-7b42-46c3-bbaf-e41bdf291383@c6b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250803
+SUMMARY:Commencement | Summer Term/Sessions
+UID:a3fdc803-1f8c-41a7-9958-b0ce32a515c6@a3fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230602
+DESCRIPTION:Finals for session courses may be designation to other dates | 4-week session 1
+SUMMARY:Last Day Of Classes And Final Exams
+UID:5658509d-ca09-41ca-897f-2fa56141f092@5658.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231122
+DESCRIPTION:No classes\, offices open | autumn full term\, 7-week session 2
+SUMMARY:Thanksgiving Break Begins
+UID:48dc86c4-84e7-4d1d-bf52-6f31a963e583@48dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250506
+SUMMARY:First Day Of Classes | Summer Full Term Session\, 6-Week Session 1\, 8-Week Session 1\, 4-Week Session 1
+UID:ba2d8391-19b6-4997-9440-03694212c1b4@ba2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230806
+SUMMARY:Commencement | Summer Term/Sessions
+UID:f570fc7d-a035-4765-a9ea-0e819fbec6f0@f570.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231208
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
+UID:fe8e475c-9a12-4841-9cc8-7e4db37fc854@fe8e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240314
+DESCRIPTION:No classes\, offices open | spring full term\, 7-week session 2
+SUMMARY:Spring Break
+UID:684b6d21-575c-42d6-963b-601c9693cf52@684b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250224
+DESCRIPTION:Finals for session courses may be designated to other dates | 7-week session 1
+SUMMARY:Final Examinations
+UID:0c8427cb-abf8-4f59-9b80-873eca404d2a@0c84.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240223
+SUMMARY:Last Day Of Classes | 7-Week Session 1
+UID:372e91bc-c2cb-4008-a47d-aae7aad58e47@372e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250312
+DESCRIPTION:No classes\, offices open | spring full term\, 7-week session 2
+SUMMARY:Spring Break
+UID:3694021b-a36c-496a-a6cb-d4112a74fcaa@3694.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250106
+SUMMARY:First Day Of Classes  | Spring Full Term\, 7-Week Session 1
+UID:5dd34ab6-8e43-4626-a416-a2b52c8a5b39@5dd3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231011
+SUMMARY:Final Examinations | 7-Week Session 1
+UID:b1ca6197-23e7-4587-b296-bcc8f18efe2f@b1ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240729
+SUMMARY:Final Exams | Summer Full Term Session
+UID:9650d826-8383-4ac7-9a0a-af5bfbe50de5@9650.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250312
+DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date.) | 7-week session 2
+SUMMARY:Census Date
+UID:2071c220-b85c-4f8c-9c53-8e5103e7b34e@2071.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+DESCRIPTION:Offices closed | spring term/sessions
+SUMMARY:New Year'S Day
+UID:3afb1762-2030-4ebc-b577-1834d9d2c386@3afb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240704
+DESCRIPTION:No classes\, office closed | summer term/sessions
+SUMMARY:Independence Day Observed
+UID:5a051974-2aad-4bff-b3ee-18eb412ac05b@5a05.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230620
+SUMMARY:First Day Of Classes | 6-Week Session 2
+UID:b736d845-5ffc-43b1-a964-f6b61a49c9ac@b736.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230619
+DESCRIPTION:No classes\, offices closed | summer term/sessions
+SUMMARY:Juneteenth National Independence Day
+UID:86264fc9-1af2-428a-b1ae-8bafe1533d51@8626.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240628
+DESCRIPTION:Finals for session courses may be designation to other dates | 8-week session 1\, 4-week session 2
+SUMMARY:Last Day Of Classes And Final Exams
+UID:bc55c476-acfa-43ee-b26f-524749ea8b41@bc55.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240903
+DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | autumn full term\, 7-week session 1
+SUMMARY:Census Date
+UID:6529efbf-a38a-45cb-abaf-909eccea15a1@6529.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231214
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
+UID:cca6a25e-78ff-47fb-bccf-2e23df22d45a@cca6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240313
+DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date.) | 7-week session 2
+SUMMARY:Census Date
+UID:3c7a43dd-1b5d-4944-8e6a-5f7c6502b0bc@3c7a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230731
+SUMMARY:Final Exams | Summer Full Term Session
+UID:73b9619a-e808-47a7-8e14-8b9ee59d7e0e@73b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240226
+DESCRIPTION:Finals for session courses may be designated to other dates | 7-week session 1
+SUMMARY:Final Examinations
+UID:b20c57ba-b954-4e61-80c0-b60d35529af8@b20c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231217
+SUMMARY:Commencement | Autumn Term/Sessions
+UID:f23c9c84-943d-4c9c-b73d-e340e343df86@f23c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250226
+SUMMARY:First Day Of Classes  | 7-Week Session 2
+UID:ccbc6707-168b-41cf-87e9-ca7bb0597886@ccbc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250313
+DESCRIPTION:No classes\, offices open | spring full term\, 7-week session 2
+SUMMARY:Spring Break
+UID:7b31b6ca-e806-4c44-965f-2f8b7e2b745a@7b31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250426
+DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
+SUMMARY:Final Examinations
+UID:45e38cae-a575-442e-8e71-0eafd260a4a7@45e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240730
+SUMMARY:Final Exams | Summer Full Term Session
+UID:49231a83-ed37-4612-96c3-6a5e26951740@4923.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231206
+SUMMARY:Last Day Of Classes | Autumn Full Term\, 7-Week Session 2
+UID:5ac31885-0b4d-47fa-9435-23a27ca90640@5ac3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230905
+DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | autumn full term\, 7-week session 1
+SUMMARY:Census Date
+UID:f53d0589-c636-4e58-b387-0668d71c3409@f53d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
+UID:9d96a94a-2b2d-4ae8-8780-37b2acdf6f66@9d96.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231212
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
+UID:a2b1fea6-92c8-471e-8671-2c61e092ba3a@a2b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231211
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
+UID:5fe47e39-aa92-4ff6-957c-a34fdcd2fafa@5fe4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250421
+SUMMARY:Last Day Of Classes | Spring Full Term\, 7-Week Session 2
+UID:b1aa8263-eae2-4c15-97e2-20781fe033b8@b1aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DESCRIPTION:No classes\, offices closed | autumn full term\, 7-week session 2
+SUMMARY:Veteran'S Day
+UID:0a93a852-9cea-4ebd-a553-bb09205ba826@0a93.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250728
+SUMMARY:Final Exams | Summer Full Term Session
+UID:2b55c099-70c8-4fc2-a0ab-d9cc4d81ebfd@2b55.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250520
+DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | summer full term session\, 6-week session 1\, 8-week session 1\, 4-week session 1
+SUMMARY:Census Date
+UID:a3daca1b-ea51-4626-bfc6-f6637c8ec2d0@a3da.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250429
+DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
+SUMMARY:Final Examinations
+UID:ba2f59d1-b470-4875-9ae8-e480871cf7e2@ba2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240715
+DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 4-week session 3
+SUMMARY:Census Date
+UID:7be63638-2a0d-4647-af78-0030acbb6569@7be6.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241011
 DESCRIPTION:No classes\, offices open  | autumn full term\, 7-week session 2
 SUMMARY:Autumn Break October 10-11
-UID:b84f6dd8-a874-4c6f-86ca-ab6becd1041c@b84f.org
+UID:f78b3a97-278c-4b31-a0f2-df95e8004dac@f78b.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250506
-SUMMARY:First Day Of Classes | Summer Full Term Session\, 6-Week Session 1\, 8-Week Session 1\, 4-Week Session 1
-UID:4a1259d4-6030-4026-8ec1-8596699b5cad@4a12.org
+DTSTART;VALUE=DATE:20241008
+SUMMARY:Final Examinations | 7-Week Session 1
+UID:056747d4-8b0b-4fc4-9c82-9ebde3bed034@0567.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250803
-SUMMARY:Commencement | Summer Term/Sessions
-UID:50bc5ec8-c4db-46ff-a187-725fb580400e@50bc.org
+DTSTART;VALUE=DATE:20241028
+DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 7-week session 2
+SUMMARY:Census Date
+UID:bb6807d5-ac28-4dc8-99f4-5a2ab730c18b@bb68.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230320
+SUMMARY:Registration Opens- Refer To Buckeye Link For Enrollment Appointment | Autumn Term/Sessions
+UID:3bc45168-ed1e-4d12-9e9d-87921eb8a425@3bc4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250704
+DESCRIPTION:No classes\, office closed | summer term/sessions
+SUMMARY:Independence Day Observed
+UID:56252c0b-556e-402a-981c-8bf7510ce166@5625.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231010
+SUMMARY:Final Examinations | 7-Week Session 1
+UID:6bccfa99-77d8-4d0c-8fe4-0be8721ae357@6bcc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240603
+SUMMARY:First Day Of Classes | 8-Week Session 2\, 4-Week Session 2
+UID:5ecda8a1-a9b7-4679-aa3c-91f69a651bfe@5ecd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240219
+SUMMARY:Registration Opens- Refer To Buckeye Link For Enrollment Appointment | Summer Term/Sessions
+UID:7d4daafb-f522-44f6-a5e6-74365992b7f1@7d4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231124
+DESCRIPTION:No classes\, offices closed | autumn full term\, 7-week session 2
+SUMMARY:Indigenous Peoples Day/Columbus Day (Observed)
+UID:6de79cd7-524c-4149-982a-14dfa91f5a05@6de7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250714
+DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 4-week session 3
+SUMMARY:Census Date
+UID:947a27ce-2e05-4c31-83d7-63203fa7c51e@947a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250616
+SUMMARY:First Day Of Classes | 6-Week Session 2
+UID:88cd860f-be81-439c-9229-c1f7b51cba41@88cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241210
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
+UID:0b3d9261-ad39-4e47-a21f-718d8c32c272@0b3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241014
+SUMMARY:First Day Of Classes | 7-Week Session 2
+UID:e97109cd-ea60-4af6-864b-25c4b303f4e3@e971.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240427
+DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
+SUMMARY:Final Examinations
+UID:f2addd9e-7562-4f0b-b80c-0e976a1187c8@f2ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250613
+DESCRIPTION:Finals for session courses may be designation to other dates | 6-week session 1
+SUMMARY:Last Day Of Classes And Final Exams
+UID:597b77fa-a9d7-4dc1-a8be-c67911250f89@597b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230822
+SUMMARY:First Day Of Classes | Autumn Full Term\, 7-Week Session 1
+UID:753417fe-7d7c-463b-9e34-dd5b3758fa1b@7534.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240701
+SUMMARY:First Day Of Classes | 4-Week Session 3
+UID:c0339bcc-d22c-4a63-9180-6b27d3fb7ccd@c033.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231013
+DESCRIPTION:No classes\, offices open october 12-13 | autumn full term\, 7-week session 2
+SUMMARY:Autumn Break
+UID:65744bdb-7f14-464c-9d02-34d210617c12@6574.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250725
+DESCRIPTION:Finals for session courses may be designation to other dates | 6-week session 2\, 8-week session 2\, 4-week session 3
+SUMMARY:Last Day Of Classes And Final Exams
+UID:808909ff-aeb3-4335-902f-92fdb6e1d09f@8089.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240115
+DESCRIPTION:No classes\, offices closed | spring full term\, 7-week session 1
+SUMMARY:Martin Luther King Day
+UID:5cf0aba2-e30d-4a33-a6cb-1503a96eb7f8@5cf0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250630
+SUMMARY:First Day Of Classes | 4-Week Session 3
+UID:ff30510b-39b6-4a74-985f-3e2df43528fa@ff30.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230728
+SUMMARY:Last Day Of Classes | Summer Full Term Session
+UID:83d46667-ddd0-4848-9df5-ea2ecd69575b@83d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230801
+SUMMARY:Final Exams | Summer Full Term Session
+UID:57fbafae-cda6-44b3-86f7-324af6f4fb44@57fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250616
+DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 8-week session 2\, 4-week session 2
+SUMMARY:Census Date
+UID:2a160e8a-f341-4eb1-8c0e-eec58a676616@2a16.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250730
+SUMMARY:Final Exams | Summer Full Term Session
+UID:8dfb027b-6363-4efe-b24c-651e8a41125b@8dfb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240820
+SUMMARY:First Day Of Classes | Autumn Full Term\, 7-Week Session 1
+UID:22d9a9d0-096e-4efe-a439-4e12c3544b12@22d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240430
+DESCRIPTION:Finals for session courses may be designated to other dates | spring full term\, 7-week session 2
+SUMMARY:Final Examinations
+UID:9114e613-3ee6-4880-ac0f-165bd3c27d78@9114.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241127
+DESCRIPTION:No classes\, offices open | autumn full term\, 7-week session 2
+SUMMARY:Thanksgiving Break Begins
+UID:5e0c0c47-f1f0-4d4e-8f75-5331b930cb10@5e0c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250729
+SUMMARY:Final Exams | Summer Full Term Session
+UID:3a641210-a1a5-45aa-a7e5-2d49fdbca96e@3a64.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230523
+DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | summer full term session\, 6-week session 1\, 8-week session 1\, 4-week session 1
+SUMMARY:Census Date
+UID:f37f6c7e-1f92-4e7d-bd5c-812a3b6f987a@f37f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231213
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-Week Session 2
+UID:8c3455c5-d413-49d5-83bf-f78b4dc64021@8c34.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+SUMMARY:Last Day Of Classes | 7-Week Session 1
+UID:29c558c1-82ff-452a-ad4d-a01e735d9258@29c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240726
+DESCRIPTION:Finals for session courses may be designation to other dates | 6-week session 2\, 8-week session 2\, 4-week session 3
+SUMMARY:Last Day Of Classes And Final Exams
+UID:5a328586-0330-40ba-9e6e-d921e8f764f4@5a32.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230619
+DESCRIPTION:15th day reporting (the university reserves the right to refuse registration and/or fee payment after this date) | 8-week session 2\, 4-week session 2
+SUMMARY:Census Date
+UID:19ceac2e-fe20-4717-9af1-f15dcae3d81c@19ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231016
+SUMMARY:First Day Of Classes | 7-Week Session 2
+UID:484a1adc-94d0-43f4-9aea-5a7592d142e4@484a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241010
+DESCRIPTION:No classes\, offices open  | autumn full term\, 7-week session 2
+SUMMARY:Autumn Break October 10-11
+UID:fde6ac5c-8c27-454d-a4e4-b8201f6eee64@fde6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240311
+DESCRIPTION:No classes\, offices open | spring full term\, 7-week session 2
+SUMMARY:Spring Break
+UID:46b78d2d-39ac-4f2a-a246-ad6f7a3514b8@46b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240101
+DESCRIPTION:Offices closed | spring term/sessions
+SUMMARY:New Year'S Day
+UID:5c8098c4-eb01-4e06-8516-addbbbf872d7@5c80.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250619
+DESCRIPTION:No classes\, offices closed | summer term/sessions
+SUMMARY:Juneteenth National Independence Day
+UID:ea15b3f7-abd8-406f-b535-32eb7af24ded@ea15.org
 END:VEVENT
 END:VCALENDAR
