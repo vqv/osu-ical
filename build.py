@@ -31,7 +31,7 @@ def make_calendar(entries):
         event = Event(
             name=x[0].title(),
             begin=date,
-            description=x[1].capitalize() if len(x) > 1 else None,
+            description=x[1].title() if len(x) > 1 else None,
         )
         event.make_all_day()
         cal.events.add(event)
