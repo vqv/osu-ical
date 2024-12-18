@@ -1,3 +1,4 @@
+import string
 from datetime import datetime
 
 import requests
@@ -29,7 +30,7 @@ def make_calendar(entries):
         date = datetime.fromisoformat(e["DateTime"])
         x = e["Title"].split(" - ")
         event = Event(
-            name=x[0].title(),
+            name=string.capwords(x[0], " "),
             begin=date,
             description=x[1].title() if len(x) > 1 else None,
         )
