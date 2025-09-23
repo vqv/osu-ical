@@ -42,7 +42,7 @@ def make_calendar(entries):
 
 if __name__ == "__main__":
     data = get_calendar(filters="Academic Calendar")
-    entries = [x for x in data["Entries"] if x["Type"] == ["Academic Calendar"]]
+    entries = [x for x in data["Entries"] if "Academic Calendar" in x["Type"]]
     entries.sort(key=lambda x: x["DateTime"])
     cal = make_calendar(entries)
 
