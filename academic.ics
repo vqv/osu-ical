@@ -3,1716 +3,1715 @@ X-WR-TIMEZONE:America/New_York
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-SUMMARY:Last Day Of Classes And Final Exams | 8-week Session 1\, 4-week Session 2
-UID:eeef72cc-bc07-4d10-8b9e-79eb9abee454@eeef.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261224
-SUMMARY:Presidents' Day (observed)\; Offices Closed
-UID:22bce994-9a4a-4e70-b20e-77a509c20986@22bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250601
-SUMMARY:Ohio Residency For Tuition Purposes Online Application Available | Autumn Semester\, Sessions
-UID:2b1804b5-fc36-4a1c-b76c-fa1ae71942e5@2b18.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260619
-SUMMARY:Juneteenth National Independence Day\; No Classes\, Offices Closed | Summer Semester\, 8-week Session 1\, 8-week Session 2\, 4-week Session 2
-UID:0409ad25-b5b1-4e3e-aea8-478bd38114a8@0409.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230301
-SUMMARY:Ohio Residency For Tuition Online Application Available  | Summer Term/sessions
-UID:b5b87a42-7590-465e-8505-76ca4564855e@b5b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240112
-SUMMARY:Ohio Residency For Tuition Application Deadline -online Form And All Requested Documentation | Spring Term/sessions
-UID:c990f810-8ba3-48e8-b227-fe2ca9e18123@c990.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270316
-SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
-UID:8befc81c-00c0-4947-a837-0ac5201265ac@8bef.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
-SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2
-UID:12229cd1-4d9a-4cde-87e5-e46ee349cab9@1222.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250224
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | 7-Week Session 1
-SUMMARY:Final Examinations
-UID:059151cd-aad8-4e14-bca3-d8860926efaf@0591.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230529
-DESCRIPTION:No Classes\, Office Closed | Summer Term/Sessions
-SUMMARY:Memorial Day
-UID:39fa9e37-a358-480c-a017-821a54006299@39fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240614
-DESCRIPTION:Finals For Session Courses May Be Designation To Other Dates | 6-Week Session 1
-SUMMARY:Last Day Of Classes And Final Exams
-UID:885554bc-5224-435d-a1f7-36be38ca3448@8855.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241206
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
-UID:8b0d9033-ee83-4dd1-8691-e9bbcd564a5f@8b0d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231010
-SUMMARY:Final Examinations | 7-week Session 1
-UID:57beaf2b-62ef-4676-9aa0-2f8abdcd6ee5@57be.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270509
-SUMMARY:Appeal Deadline For Ohio Residency For Tuition | Spring Semester\, Sessions 
-UID:52a4682c-348f-41c9-ac3d-6fd2b73d357f@52a4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260303
-SUMMARY:Final Examinations | 7-week Session 1
-UID:69d83fe8-8980-40d1-b281-4cf6713fa307@69d8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261015
-SUMMARY:Autumn Break\; No Classes\, Offices Open | Autumn Semester
-UID:4dabea46-0fd3-4713-b528-950040199610@4dab.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240318
-SUMMARY:Registration Opens- Refer To Buckeye Link For Enrollment Appointment | Autumn Term/sessions
-UID:cae8266d-b553-4598-a592-7c442064d42d@cae8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-SUMMARY:Appeal Deadline For Ohio Residency For Tuition | Spring Semester\, Sessions
-UID:3a8e21fe-7d82-42de-b7a3-9dd736d55107@3a8e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260703
-SUMMARY:Independence Day (observed)\; No Classes\, Office Closed | Summer Semester\, 8-week Session 2\, 6-week Session 2
-UID:f386642f-2674-4b09-8ab8-8bb37933b93f@f386.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240115
-DESCRIPTION:No Classes\, Offices Closed | Spring Full Term\, 7-Week Session 1
-SUMMARY:Martin Luther King Day
-UID:ad352cfd-9bb5-4e3c-b8c3-6806572b6e25@ad35.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231214
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
-UID:04d13416-2673-4a5f-b309-707e54273c85@04d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250425
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
-SUMMARY:Final Examinations
-UID:55db46bd-7f15-4060-9e0e-e67193e67bb5@55db.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260908
-SUMMARY:Enrollment Census Date | Autumn Semester\, 7-week Session 1
-UID:86a1e8a9-78ef-41fb-8826-173c3b1e82c1@86a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231122
-DESCRIPTION:No Classes\, Offices Open | Autumn Full Term\, 7-Week Session 2
-SUMMARY:Thanksgiving Break Begins
-UID:263afe7b-fd57-43a4-ac19-ffb893df80bc@263a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261013
-SUMMARY:Final Examinations | 7-week Session 1
-UID:2360bc69-3a39-44bb-b3d1-4780cdb77e0b@2360.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260604
-SUMMARY:Last Day Of Classes And Final Exams | 4-week Session 1
-UID:cdd6f795-b90f-4f3f-b4ee-a8687e712c8e@cdd6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240729
-SUMMARY:Final Exams | Summer Full Term Session
-UID:83573e9f-8ec4-47f4-b78e-cfa1a06d7829@8357.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260101
-SUMMARY:New Year's Day\; Offices Closed
-UID:a79c6ceb-aa77-4173-a362-ba109ec217f4@a79c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230815
-DESCRIPTION:Unpaid Accounts Subject To A Late Fee Beyond This Point
-SUMMARY:Initial Tuition\, Fee And University Residences And Dining Services Payment Deadline
-UID:c9dfd0fd-e96a-47ac-a24c-5343e5c24443@c9df.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260605
-SUMMARY:First Day Of Classes | 8-week Session 2\, 4-week Session 2
-UID:cfda6c90-ea8d-4227-9fb6-c9b585ab8d8a@cfda.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250421
-SUMMARY:Last Day Of Classes | Spring Full Term\, 7-week Session 2
-UID:c3028d65-d965-41ad-98a1-bd8aaf77d350@c302.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240423
-SUMMARY:Reading Day | Spring Full Term\, 7-week Session 2
-UID:7d0506b3-f46a-4947-94f3-eb296130467e@7d05.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241129
-DESCRIPTION:No Classes\, Offices Closed | Autumn Full Term\, 7-Week Session 2
-SUMMARY:Indigenous Peoples Day/columbus Day (observed)
-UID:b6564797-e802-4523-818b-ebd7c31af1fe@b656.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270315
-SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
-UID:21c37e69-c29f-4cb4-9f26-0416876511bb@21c3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231009
-SUMMARY:Last Day Of Classes | 7-week Session 1
-UID:7ca3b9a6-f3a9-4091-bd2d-08695cc792d9@7ca3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260126
-SUMMARY:Enrollment Census Date | Spring Semester\, 7-week Session 1
-UID:0719a656-60d7-4747-9662-c4015d33c9fa@0719.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231213
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
-UID:aac1c545-b636-4da7-a6a1-c24141b929d2@aac1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240219
-SUMMARY:Registration Opens- Refer To Buckeye Link For Enrollment Appointment | Summer Term/sessions
-UID:cc4fcc99-80db-44f3-895a-207a2bead795@cc4f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260730
-SUMMARY:Last Day Of Classes And Final Exams | 6-week Session 2\, 8-week Session 2\, 4-week Session 3
-UID:fbe6b1c8-6e42-4971-b234-650809b5362b@fbe6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250225
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | 7-Week Session 1
-SUMMARY:Final Examinations
-UID:ce9fb767-7234-4acd-930f-c02c16ecedd4@ce9f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250226
-SUMMARY:First Day Of Classes | 7-week Session 2
-UID:0eba1f21-957a-4463-85b6-5b4e95d82842@0eba.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261225
-SUMMARY:Christmas Day\; Offices Closed
-UID:09cf8a8f-4099-4977-b8e1-d3e643e98346@09cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260317
-SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
-UID:ac26fd62-7d7e-4df5-b76c-06a68a8bea21@ac26.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240228
-SUMMARY:First Day Of Classes  | 7-week Session 2
-UID:0045dd0e-edcb-4def-88d5-a92770465d29@0045.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240102
-DESCRIPTION:Unpaid Accounts Subject To A Late Fee Beyond This Point
-SUMMARY:Initial Tuition\, Fee And University Residences And Dining Services Payment Deadline
-UID:b0fd8b4b-792c-43a8-942d-3c829db61dce@b0fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260504
-SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2
-UID:db943884-2541-48da-8ad1-8461b7da8a0e@db94.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231123
-DESCRIPTION:No Classes\, Offices Closed | Autumn Full Term\, 7-Week Session 2
-SUMMARY:Thanksgiving Day
-UID:a3ec3bd5-6373-4210-9b7f-e440be22d4f9@a3ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241014
-SUMMARY:First Day Of Classes | 7-week Session 2
-UID:aee39995-e03e-423a-9b77-06dafceefb1e@aee3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230620
-SUMMARY:First Day Of Classes | 6-week Session 2
-UID:64b9ac1e-34f6-4057-b169-66e84419be1c@64b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240428
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
-SUMMARY:Final Examinations
-UID:b09db1b1-4e94-4c57-a655-47561a6c2892@b09d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260805
-SUMMARY:Final Exams | Summer Semester
-UID:01bc0376-a327-49ac-bbf1-152c762654f0@01bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240701
-SUMMARY:First Day Of Classes | 4-week Session 3
-UID:12994e25-7007-49aa-af9f-cae6c38ba2a9@1299.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241215
-DESCRIPTION: Ohio Residency For Tuition | Autumn Term/Sessions
-SUMMARY:Appeal Deadline
-UID:19b51094-3b87-410a-8f6c-04294c087f41@19b5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230602
-DESCRIPTION:Finals For Session Courses May Be Designation To Other Dates | 4-Week Session 1
-SUMMARY:Last Day Of Classes And Final Exams
-UID:0f3a192b-32cb-442f-ad1a-0ec3bf32ea82@0f3a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250826
-SUMMARY:First Day Of Classes | Autumn Semester\, 7-week Session 1
-UID:dbe0be1e-3144-415b-b81b-e7f1ab82fb73@dbe0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240619
-DESCRIPTION:No Classes\, Offices Closed | Summer Term/Sessions
-SUMMARY:Juneteenth National Independence Day
-UID:e1c319b1-fbfd-4593-9e71-3ed22fb79fd6@e1c3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240603
-DESCRIPTION:Unpaid Accounts Subject To A Late Fee Beyond This Point
-SUMMARY:Initial Tuition\, Fee And University Residences And Dining Services Payment Deadline
-UID:8bc586e7-96b1-43c8-9a0c-84d4e58bc317@8bc5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251211
-SUMMARY:Reading Day | Autumn Semester\, 7-week Session 2
-UID:71ed7377-db98-4b9b-bae7-28e9166ebf19@71ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240531
-DESCRIPTION:Finals For Session Courses May Be Designation To Other Dates | 4-Week Session 1
-SUMMARY:Last Day Of Classes And Final Exams
-UID:f8b04ab0-db8f-4e67-9f8d-c432f2cfef59@f8b0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-SUMMARY:Commencement | Spring Semester\, Sessions
-UID:74c1ea02-0e39-4e87-b3b5-a8615da78bee@74c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270115
-SUMMARY:Ohio Residency For Tuition Application Deadline | Spring Semester\, Sessions
-UID:e12d0d45-978a-4d07-bef1-9facc20cfa76@e12d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251221
-SUMMARY:Commencement | Autumn Semester\, Sessions
-UID:68c55688-e4d0-42ff-b940-c0329ff35f80@68c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251111
-SUMMARY:Veterans Day\; No Classes\, Offices Closed | Autumn Semester\, 7-week Session 2
-UID:410c77a3-f1b8-408e-8592-b6b3b40c833e@410c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270503
-SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2 
-UID:762ec3e9-b5ab-437f-9289-e9411003111a@762e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240301
-DESCRIPTION:Deadline For Completion And Documentation Is The 1St Friday Of The Semester | Summer Term/Sessions
-SUMMARY:Online Residency For Tuition Purposes Online Application Available
-UID:e580f5be-b657-44c5-aa55-398e3b5ed6b4@e580.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261127
-SUMMARY:Indigenous People's Day/columbus Day (observed)\; No Classes\, Offices Closed | Autumn Semester\, 7-week Session 2
-UID:c0299ff9-8a67-4d39-8c79-59df3f92634b@c029.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231207
-SUMMARY:Reading Day  | Autumn Full Term\, 7-week Session 2
-UID:169b4afa-fffa-4931-86f4-d46e25d41eac@169b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240521
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | Summer Full Term Session\, 6-Week Session 1\, 8-Week Session 1\, 4-Week Session 1
-SUMMARY:Census Date
-UID:8261650e-463e-431f-8408-23af9bd59273@8261.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250619
-DESCRIPTION:No Classes\, Offices Closed | Summer Term/Sessions
-SUMMARY:Juneteenth National Independence Day
-UID:913d52a9-0378-47d2-a485-66eb0b63586a@913d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231012
-DESCRIPTION:No Classes\, Offices Open October 12-13 | Autumn Full Term\, 7-Week Session 2
-SUMMARY:Autumn Break
-UID:3b6ca02a-3783-4c6c-a0ab-ca8f95630a3d@3b6c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231211
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
-UID:6cc72024-b900-4067-97ac-bb7040e9a279@6cc7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240223
-SUMMARY:Last Day Of Classes | 7-week Session 1
-UID:768d5873-cbcc-4206-b09d-023f61f790f8@768d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241205
-SUMMARY:Reading Day | Autumn Full Term\, 7-week Session 2
-UID:1c03d7e8-d525-4edf-ab99-b8712dad8526@1c03.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-DESCRIPTION:Offices Closed | Spring Term/Sessions
-SUMMARY:New Year's Day
-UID:838a93e0-ea5c-435e-9241-73b5f264b2aa@838a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230502
-DESCRIPTION:Unpaid Accounts Subject To A Late Fee Beyond This Point
-SUMMARY:Initial Tuition\, Fee And University Residences And Dining Services Payment Deadline
-UID:e39e03ec-8a3e-4613-ab28-c0e62672ff64@e39e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261012
-SUMMARY:Last Day Of Classes | 7-week Session 1
-UID:f9880cdb-62b8-4920-bf28-7438b82bf8ec@f988.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250110
-DESCRIPTION:Online Form And All Requested Documentation | Spring Term/Sessions
-SUMMARY:Ohio Residency For Tuition Application Deadline
-UID:9c1095a8-048c-4450-bc0c-75a7ad45b779@9c10.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250312
+DTSTART;VALUE=DATE:20240315
 DESCRIPTION:No Classes\, Offices Open | Spring Full Term\, 7-Week Session 2
 SUMMARY:Spring Break
-UID:a499a209-8106-4e6d-ac0a-11876ea98d23@a499.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251126
-SUMMARY:Thanksgiving Break Begins\; No Classes\, Offices Open | Autumn Semester\, 7-week Session 2
-UID:501b990c-c080-4e31-bdd4-17870721c88f@501b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250504
-DESCRIPTION: Ohio Residency For Tuition | Spring Term/Sessions
-SUMMARY:Appeal Deadline
-UID:66b84b91-1730-4f2b-b086-384aca874b8a@66b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240422
-SUMMARY:Last Day Of Classes | Spring Full Term\, 7-week Session 2
-UID:9bcf6fde-ff9a-4240-b575-f49f6f62a61c@9bcf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240804
-DESCRIPTION:Ohio Residency For Tuition | Summer Term/Sessions
-SUMMARY: Appeal Deadline
-UID:29a1a490-35a9-4e46-912d-ced5a0e6c0e3@29a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231124
-DESCRIPTION:No Classes\, Offices Closed | Autumn Full Term\, 7-Week Session 2
-SUMMARY:Indigenous Peoples Day/columbus Day (observed)
-UID:cbd64bcc-4e6e-4f7f-9039-54ab49f91a8e@cbd6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260828
-SUMMARY:Ohio Residency For Tuition Application Deadline | Autumn Semester\, Sessions
-UID:5ac7fcb8-8f4a-4644-a39c-4b91749cc692@5ac7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241211
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
-UID:461cb07d-c19b-43e3-b845-f0ba08bc8d3f@461c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240122
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date.) | Spring Full Term\, 7-Week Session 1
-SUMMARY: Census Date
-UID:8959790f-e1f3-4e39-a120-b27a174c1b77@8959.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260119
-SUMMARY:Martin Luther King Jr. Day\; No Classes\, Offices Closed | Spring Semester\, 7-week Session 1
-UID:649a8723-090c-491a-9b12-ec4b6b3d0e2b@649a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260430
-SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2
-UID:fa4c6845-728a-4f64-b22a-296c201175bb@fa4c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230802
-SUMMARY:Final Exams | Summer Full Term Session
-UID:150f4012-19c8-4f6d-a930-6391b439be2b@150f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240311
-DESCRIPTION:No Classes\, Offices Open | Spring Full Term\, 7-Week Session 2
-SUMMARY:Spring Break
-UID:d53e03b3-994f-4a60-b8cd-c9595ace7096@d53e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260319
-SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
-UID:f224ae43-23fe-4d62-be60-a0786b3d04dd@f224.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230806
-SUMMARY:Commencement | Summer Term/sessions
-UID:0c6233b6-8207-4f92-9bd6-25ca3d8b987b@0c62.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260622
-SUMMARY:First Day Of Classes | 6-week Session 2
-UID:465a71ef-1507-48ac-8166-dfffc96ef233@465a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270104
-SUMMARY:Initial Tuition And Fee Payment Deadline\; Subsequent Deadlines On Statement Of Account | Spring Semester\, Sessions
-UID:ed7bea1a-e31b-40b8-ab00-c0652f87cd27@ed7b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260501
-SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2
-UID:7f552d4c-7b10-4654-a1d5-975432b753f2@7f55.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270125
-SUMMARY:Enrollment Census Date | Spring Semester\, 7-week Session 1
-UID:a910bab1-f918-4281-baef-d4a3873e9392@a910.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250106
-SUMMARY:First Day Of Classes | Spring Full Term\, 7-week Session 1
-UID:e06655a5-355c-499d-bf2b-b39200634c9f@e066.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240726
-DESCRIPTION:Finals For Session Courses May Be Designation To Other Dates | 6-Week Session 2\, 8-Week Session 2\, 4-Week Session 3
-SUMMARY:Last Day Of Classes And Final Exams
-UID:53fd97f1-89bd-4943-94b7-c27a6fac039e@53fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230605
-SUMMARY:First Day Of Classes | 8-week Session 2\, 4-week Session 2
-UID:795b22f6-b2c8-4586-8562-376bb982f803@795b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250616
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 8-Week Session 2\, 4-Week Session 2
-SUMMARY:Census Date
-UID:efec157c-e1f0-4d14-8f64-c2e6529a31d5@efec.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261229
-SUMMARY:Academic Winter Recess\; Offices Closed
-UID:09aa83dc-7cbb-43b4-adf2-da173043ffa9@09aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250312
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date.) | 7-Week Session 2
-SUMMARY:Census Date
-UID:1248fc91-e003-4434-a8c6-e75248328f4a@1248.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-SUMMARY:Last Day Of Classes | 7-week Session 1
-UID:52b4178c-dd7c-4a2a-93eb-ac339833a863@52b4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230320
-SUMMARY:Registration Opens- Refer To Buckeye Link For Enrollment Appointment | Autumn Term/sessions
-UID:e588ddcc-afec-4d2b-8210-f7b580e57c7f@e588.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241209
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
-UID:4150805a-454c-4e3b-b742-90b7dd28c080@4150.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261214
-SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Autumn Semester\, 7-week Session 2
-UID:7bda629d-45ca-41f6-8aa9-18b1a2ebea5c@7bda.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260525
-SUMMARY:Memorial Day\; No Classes\, Office Closed | Summer Semester\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1
-UID:31ecfdf4-b8eb-4af0-9ccf-c250ee9cebeb@31ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240430
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
-SUMMARY:Final Examinations
-UID:108f3bef-0454-49f9-a1c6-8d25cee24454@108f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261220
-SUMMARY:Appeal Deadline For Ohio Residency For Tuition | Autumn Semester\, Sessions
-UID:0b23a21b-8b50-4384-a876-cf07f6ad6da1@0b23.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260318
-SUMMARY:Enrollment Census Date | 7-week Session 2
-UID:f89166fa-fcae-487b-b967-ac33e7a29e68@f891.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260706
-SUMMARY:Enrollment Census Date | 6-week Session 2
-UID:c74c1a26-25fd-4d7a-b8a1-c5fc8c5d3118@c74c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240813
-DESCRIPTION:Unpaid Accounts Subject To A Late Fee Beyond This Point
-SUMMARY:Initial Tuition\, Fee And University Residences And Dining Services Payment Deadline
-UID:926b82d9-3695-4a53-bbd4-cd05f8ef9a1d@926b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240313
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date.) | 7-Week Session 2
-SUMMARY:Census Date
-UID:5c310bf9-4d59-49e0-930b-a2b1e5cef222@5c31.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230731
-SUMMARY:Final Exams | Summer Full Term Session
-UID:ce787456-a548-4d14-8b77-eefe171d3ab2@ce78.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251013
-SUMMARY:Last Day Of Classes | 7-week Session 1
-UID:4df6d844-ac05-4abd-8293-02b4b88cfd46@4df6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260504
-SUMMARY:Initial Tuition And Fee Payment Deadline\; Subsequent Deadlines On Statement Of Account | Summer Semester\, Sessions
-UID:5c39da2e-7ac0-4da3-b6f3-c0ac3cab470a@5c39.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261217
-SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Autumn Semester\, 7-week Session 2
-UID:4181cfaa-1b4e-414e-a854-4d80df62e44e@4181.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260320
-SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
-UID:9240df99-76c1-4900-b548-80ab0e2aeb1e@9240.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270430
-SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2 
-UID:d0f7bc0a-8768-4a1d-8b50-16410a78e72a@d0f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260105
-SUMMARY:Initial Tuition And Fee Payment Deadline\; Subsequent Deadlines On Statement Of Account | Spring Semester\, Sessions
-UID:b0cc4e7d-8e18-4a81-a36a-7162f3e182cc@b0cc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270427
-SUMMARY:Reading Day | Spring Semester\, 7-week Session 2
-UID:6ddd1e8d-6135-456d-a42e-6994b8fb51f6@6ddd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241225
-DESCRIPTION:Offices Closed
-SUMMARY:Christmas Day Observed
-UID:7480e727-1197-4413-8b85-93a8f4ad4e4a@7480.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240903
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | Autumn Full Term\, 7-Week Session 1
-SUMMARY:Census Date
-UID:58dfb1d3-6661-479e-aaeb-8f81f3c508a9@58df.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251014
-SUMMARY:Final Examinations | 7-week Session 1
-UID:a815e552-ae0f-441b-9a8a-6ee012607e62@a815.org
+UID:fde1210f-1b94-47a5-8324-98301aad2fe1@fde1.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240312
 DESCRIPTION:No Classes\, Offices Open | Spring Full Term\, 7-Week Session 2
 SUMMARY:Spring Break
-UID:e1c635fb-c122-4679-9638-c95a19552179@e1c6.org
+UID:493ff262-4052-4758-b942-e47cb14d3bd8@493f.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240715
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 4-Week Session 3
-SUMMARY:Census Date
-UID:b5f9a508-cf21-4c42-a6da-4398c4ad4f10@b5f9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240601
-DESCRIPTION:Deadline For Completion And Documentation Is The 1St Friday Of The Semester | Autumn Term/Sessions
-SUMMARY:Online Residency For Tuition Purposes Online Application Available
-UID:6ccb5f67-330b-4641-9db6-cdcf2411a0dd@6ccb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250314
-DESCRIPTION:No Classes\, Offices Open | Spring Full Term\, 7-Week Session 2
-SUMMARY:Spring Break
-UID:2578cf06-92bc-46b6-bc06-f1fb132e9246@2578.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230806
-DESCRIPTION:Ohio Residency For Tuition | Summer Term/Sessions
-SUMMARY: Appeal Deadline
-UID:fab98c9c-cada-42f7-a66d-0bd0e42170d0@fab9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250317
-SUMMARY:Course Registration Opens | Autumn Semester\, Sessions
-UID:82a7ab4c-fbc4-466f-9156-29eb610de093@82a7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230619
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 8-Week Session 2\, 4-Week Session 2
-SUMMARY:Census Date
-UID:03a68e20-6588-4f29-8036-abb9036c7703@03a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240426
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
-SUMMARY:Final Examinations
-UID:d17ef81d-efad-4736-98a4-758c9b058a40@d17e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250630
-SUMMARY:First Day Of Classes | 4-week Session 3
-UID:0ccfc049-ac83-471a-8457-9a14babf7d84@0ccf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241215
-SUMMARY:Commencement | Autumn Term/sessions
-UID:972c09dd-913d-4d33-971d-bb0ea7cc88e7@972c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251218
-SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Autumn Semester\, 7-week Session 2
-UID:13daf98a-1cfb-4b66-9cd4-54691d2c868f@13da.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230728
-DESCRIPTION:Finals For Session Courses May Be Designation To Other Dates | 6-Week Session 2\, 8-Week Session 2\, 4-Week Session 3
-SUMMARY:Last Day Of Classes And Final Exams
-UID:4620bc34-78b5-45d8-943a-62a48fadead1@4620.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240226
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | 7-Week Session 1
-SUMMARY:Final Examinations
-UID:dabd3629-221b-40af-86e6-4c13986da501@dabd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240902
-DESCRIPTION:No Classes\, Offices Closed | Autumn Full Term\, 7-Week Session 1
-SUMMARY:Labor Day
-UID:754eabd3-6a5b-4066-90e6-18db84742c8c@754e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260730
-SUMMARY:Last Day Of Classes | Summer Semester
-UID:c0643f2c-1203-4698-89eb-5f1fc802617b@c064.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241210
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
-UID:dd357b6f-8959-4143-a2d9-7c38099afa7d@dd35.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250422
-SUMMARY:Reading Day | Spring Full Term\, 7-week Session 2
-UID:94caf3a6-bc46-42c7-ba2d-e9a99db55b66@94ca.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241028
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 7-Week Session 2
-SUMMARY:Census Date
-UID:c9f72bb8-246a-4a6b-88ef-cdcb4144fdf9@c9f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240101
-DESCRIPTION:Offices Closed | Spring Term/Sessions
-SUMMARY:New Year's Day
-UID:d4424395-a67c-4394-9a8a-898f33a3f0de@d442.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240425
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
-SUMMARY:Final Examinations
-UID:97e2ca19-8173-4a81-a82f-023d46ac3aa0@97e2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251216
-SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Autumn Semester\, 7-week Session 2
-UID:05a0f21a-f086-420a-b62a-106cad18d83e@05a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230523
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | Summer Full Term Session\, 6-Week Session 1\, 8-Week Session 1\, 4-Week Session 1
-SUMMARY:Census Date
-UID:e0f6f0fa-a096-4199-9831-61ff675f1cb8@e0f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240424
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
-SUMMARY:Final Examinations
-UID:c32f6e20-9dbb-4b10-b687-020bd607364a@c32f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250803
-SUMMARY:Commencement | Summer Term/sessions
-UID:89f2cfda-bfd8-478e-ae48-163f090f0226@89f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240429
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
-SUMMARY:Final Examinations
-UID:49a0ada7-b4d7-46e2-9915-6e7030e4e301@49a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270302
-SUMMARY:Final Examinations | 7-week Session 1
-UID:cf1bf953-a119-41c4-bdf1-33ab8066a94c@cf1b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251224
-SUMMARY: Presidents' Day (observed)\; Offices Closed 
-UID:ab1eae66-c164-4697-829b-34e609c4bd08@ab1e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240804
-SUMMARY:Commencement | Summer Term/sessions
-UID:e0ad33ca-b91c-467a-af3f-df17d7595bec@e0ad.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241230
-DESCRIPTION:Unpaid Accounts Subject To A Late Fee Beyond This Point
-SUMMARY:Initial Tuition\, Fee And University Residences And Dining Services Payment Deadline
-UID:4af328c5-4b65-418f-ad05-67c2ebe06114@4af3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250509
-DESCRIPTION:Online Form And All Requested Documentation | Summer Term/Sessions
-SUMMARY:Ohio Residency For Tuition Application Deadline
-UID:dfa18aab-b6df-41a9-b9bc-060880e8da2c@dfa1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250423
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
-SUMMARY:Final Examinations
-UID:7b584d7f-1c66-4525-80d7-1219de05175c@7b58.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240617
-SUMMARY:First Day Of Classes | 6-week Session 2
-UID:86c4f1c2-4e54-412c-863c-e420c56bceab@86c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250120
-DESCRIPTION:No Classes\, Offices Closed | Spring Full Term\, 7-Week Session 1
-SUMMARY:Martin Luther King Day
-UID:26828e97-0604-4747-a9b3-378150b916ae@2682.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251020
-SUMMARY:First Day Of Classes | 7-week Session 2
-UID:df9332be-3cce-4c38-84f0-5b0d949777a5@df93.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270118
-SUMMARY:Martin Luther King Jr Day\; No Classes\, Offices Closed | Spring Semester\, 7-week Session 1
-UID:bd59f771-716b-41f5-ad78-542a48238837@bd59.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240823
-DESCRIPTION:Online Form And All Requested Documentation
-SUMMARY:Ohio Residency For Tuition Application Deadline
-UID:2495eb29-b4df-4512-afbb-357c630d67fc@2495.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230801
-SUMMARY:Final Exams | Summer Full Term Session
-UID:a4ee7cac-0069-409f-8db0-c580b217e4a9@a4ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250714
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 4-Week Session 3
-SUMMARY:Census Date
-UID:dbc865a4-320e-4839-b0e1-9bdd3eee4015@dbc8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261210
-SUMMARY:Reading Day | Autumn Semester\, 7-week Session 2
-UID:54868185-30a1-4d85-a0e0-668630e6311f@5486.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240108
-SUMMARY:First Day Of Classes | Spring Full Term\, 7-week Session 1
-UID:6c826782-9130-41d8-83d0-dd1d7c8ce3ec@6c82.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260804
-SUMMARY:Final Exams | Summer Semester
-UID:26c8c447-8891-44f9-bc46-e0a8c1b98a10@26c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260720
-SUMMARY:Enrollment Census Date | 4-week Session 3
-UID:f1b39b39-67a7-4b4e-9849-d132fb2e66c6@f1b3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230703
-SUMMARY:First Day Of Classes | 4-week Session 3
-UID:efd23ec6-1022-41da-9677-9f4a415545d4@efd2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270426
-SUMMARY:Last Day Of Classes | Spring Semester\, 7-week Session 2
-UID:544ce357-5b1f-4b61-9404-a3d6aaac6ebe@544c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261019
-SUMMARY:First Day Of Classes | 7-week Session 2
-UID:3f8f023c-bb65-4e9c-b548-fda2cf309ea7@3f8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250616
-SUMMARY:First Day Of Classes | 6-week Session 2
-UID:9f39759f-0c63-43a8-b4d8-4abe26e76188@9f39.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250729
-SUMMARY:Final Exams | Summer Full Term
-UID:0a27cef1-85b8-467b-bbe2-5bec364c1922@0a27.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260301
-SUMMARY:Ohio Residency For Tuition Purposes Online Application Available | Summer Semester\, Sessions
-UID:245aacad-f1fd-4c18-8cd6-50c4c109bc59@245a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231013
-DESCRIPTION:No Classes\, Offices Open October 12-13 | Autumn Full Term\, 7-Week Session 2
-SUMMARY:Autumn Break
-UID:71e9b938-4495-44a8-b206-ccef942c7615@71e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240315
-DESCRIPTION:No Classes\, Offices Open | Spring Full Term\, 7-Week Session 2
-SUMMARY:Spring Break
-UID:9e23b689-3ad9-4621-887f-b010a79d68d0@9e23.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250725
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Summer Full Term\, 6-Week Session 2\, 8-Week Session 2\, 4-Week Session 3
-SUMMARY:Last Day Of Classes And Final Exams
-UID:ac176ce8-9c6e-415e-a0bb-fe1348b3e2b0@ac17.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231101
-DESCRIPTION:Deadline For Completion And Documentation Is The 1St Friday Of The Semester | Spring Term/Sessions
-SUMMARY:Online Residency For Tuition Purposes Online Application Available
-UID:5d855d09-1efa-4082-a35b-897e6596fc9a@5d85.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251212
-SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Autumn Semester\, 7-week Session 2
-UID:bdd10f63-5976-44d0-9b6a-9120d9cd6014@bdd1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231212
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
-UID:2ee83d36-2865-4028-847f-3fc7747d6069@2ee8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270111
-SUMMARY:First Day Of Classes | Spring Semester\, 7-week Session 1
-UID:a1428454-4727-493d-b06f-55724f9ddd2c@a142.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261111
-SUMMARY:Veterans Day\; No Classes\, Offices Closed | Autumn Semester\, 7-week Session 2
-UID:c6614726-94a4-4816-8c8f-a9dbfd16e779@c661.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231208
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
-UID:6c198847-c59c-42e3-81c6-7f624c0b8669@6c19.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270101
-DESCRIPTION:Offices Closed
-SUMMARY:New Year's Day
-UID:2e4d19f6-dd1d-477a-aea1-03fd13ea7560@2e4d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270428
-SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2 
-UID:73a4f54d-ab3f-437c-b1ff-3c0f6180e16e@73a4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231217
-SUMMARY:Commencement | Autumn Term/sessions
-UID:f9f3db09-0f07-4e22-9c39-abc143d9cbe1@f9f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250313
-DESCRIPTION:No Classes\, Offices Open | Spring Full Term\, 7-Week Session 2
-SUMMARY:Spring Break
-UID:c69cb4b8-36c9-4e5d-af8e-54a9778d1daa@c69c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250803
-DESCRIPTION:Ohio Residency For Tuition | Summer Term/Sessions
-SUMMARY:Appeal Deadline
-UID:21518d34-a717-4665-9a13-f4a1198ed320@2151.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Thanksgiving Day\; No Classes\, Offices Closed | Autumn Semester\, 7-week Session 2
-UID:f79f99a4-698d-4905-8b0f-d753cfe95cbe@f79f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230616
-DESCRIPTION:Finals For Session Courses May Be Designation To Other Dates | 6-Week Session 1
-SUMMARY:Last Day Of Classes And Final Exams
-UID:c55c4bb2-3fbf-4ef0-a6a6-883dae3e2aa9@c55c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241010
-DESCRIPTION:No Classes\, Offices Open  | Autumn Full Term\, 7-Week Session 2
-SUMMARY:Autumn Break October 10-11
-UID:0e5961a8-9eeb-4b78-a13e-df63c542179d@0e59.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270317
+DTSTART;VALUE=DATE:20261102
 SUMMARY:Enrollment Census Date | 7-week Session 2
-UID:a1591f4f-bd4a-45c8-a6cd-8c2e15314e37@a159.org
+UID:3ab63b78-f57d-4a9e-ab38-91b675e23499@3ab6.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240704
-DESCRIPTION:No Classes\, Office Closed | Summer Term/Sessions
-SUMMARY:Independence Day Observed
-UID:5a5f3cb2-7a44-4e25-95d0-e1d220f70c55@5a5f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250506
-SUMMARY:First Day Of Classes | Summer Full Term\, 6-week Session 1\, 8-week Session 1\, 4-week Session 1
-UID:5b11d2f1-29ce-4b96-b115-7b55b704056d@5b11.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250630
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 6-Week Session 2
-SUMMARY:Census Date
-UID:46bcfc14-0cc4-4485-b4cf-73a2dea2b2a4@46bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241111
-DESCRIPTION:No Classes\, Offices Closed | Autumn Full Term\, 7-Week Session 2
-SUMMARY:Veteran's Day
-UID:e4b00063-43ec-4368-ae09-0c7bf35c4667@e4b0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270318
-SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
-UID:a7e5b593-398f-419a-bfa8-8c9e4f4ac07d@a7e5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260304
-SUMMARY:First Day Of Classes | 7-week Session 2
-UID:e91f6b77-e94c-4679-a095-4498a8b9189a@e91f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231030
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 7-Week Session 2
-SUMMARY:Census Date
-UID:9161ea44-dd43-4e7e-80ca-998f3e72bb29@9161.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231016
-SUMMARY:First Day Of Classes | 7-week Session 2
-UID:cda7f056-4465-411e-8b90-15cdb47c1e2b@cda7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250217
-SUMMARY:Registration Opens- Refer To Buckeye Link For Enrollment Appointment | Summer Term/sessions
-UID:1c09267a-d564-4fb1-9398-148d3652d252@1c09.org
+DTSTART;VALUE=DATE:20260119
+SUMMARY:Martin Luther King Jr. Day\; No Classes\, Offices Closed | Spring Semester\, 7-week Session 1
+UID:bd8eb773-fc5e-4106-b47a-5ba53b96a060@bd8e.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241101
 DESCRIPTION:Deadline For Completion And Documentation Is The 1St Friday Of The Semester | Spring Term/Sessions
 SUMMARY:Online Residency For Tuition Purposes Online Application Available
-UID:60691bf7-3334-4b83-bbfd-5deb856c9655@6069.org
+UID:c865ff13-fbb9-467f-b507-71fd8e2046ca@c865.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260112
-SUMMARY:First Day Of Classes | Spring Semester\, 7-week Session 1
-UID:9fa21c8f-86f1-4f4e-abc0-a0f8103e58b3@9fa2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240507
+DTSTART;VALUE=DATE:20230509
 SUMMARY:First Day Of Classes | Summer Full Term Session\, 6-week Session 1\, 8-week Session 1\, 4-week Session 1
-UID:70fdd16c-a4c2-4428-8f37-63c8a13a19c6@70fd.org
+UID:1f876fa6-aa42-4870-a335-14a26fb380a8@1f87.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240731
-SUMMARY:Final Exams | Summer Full Term Session
-UID:ab21ae34-5ae4-4421-b7be-634426e8ea36@ab21.org
+DTSTART;VALUE=DATE:20260126
+SUMMARY:Enrollment Census Date | Spring Semester\, 7-week Session 1
+UID:02b1828f-b1ab-4385-a574-6834230c96de@02b1.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270504
-SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2 
-UID:f892084f-5c00-4d7a-8d41-c0ce22c8b03c@f892.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260809
-SUMMARY:Commencement | Summer Semester\, Sessions
-UID:e19ed233-55c8-48bf-ab9f-958e6a07cb06@e19e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260428
-SUMMARY:Reading Day | Spring Semester\, 7-week Session 2
-UID:776d4338-d5ab-4f5b-ac0b-f56cfd0de611@776d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241008
-SUMMARY:Final Examinations | 7-week Session 1
-UID:afd8f235-95e0-43a1-aaa1-ac93d1fcb6a9@afd8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261102
-SUMMARY:Enrollment Census Date | 7-week Session 2
-UID:890809c2-b2bd-4155-9eb6-b86ea587d20b@8908.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261125
-SUMMARY:Thanksgiving Break Begins\; No Classes\, Offices Open | Autumn Semester\, 7-week Session 2
-UID:9547de30-4996-4a7f-9b68-965997bedc69@9547.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240505
-DESCRIPTION:Ohio Residency For Tuition | Spring Term/Sessions
-SUMMARY: Appeal Deadline
-UID:88e3da9d-8f63-4103-984b-df2315d9576b@88e3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260427
-SUMMARY:Last Day Of Classes | Spring Semester\, 7-week Session 2
-UID:d2f736b1-2174-44ea-ae19-4bc060ef14d8@d2f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250428
+DTSTART;VALUE=DATE:20240430
 DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
 SUMMARY:Final Examinations
-UID:5e183ba1-647a-4f40-92bc-d7365304f324@5e18.org
+UID:ba4dc147-02fc-4a59-8706-b059b5d66315@ba4d.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250704
-DESCRIPTION:No Classes\, Office Closed | Summer Term/Sessions
-SUMMARY:Independence Day Observed
-UID:86a1eb75-1f53-482e-9573-8f8280913389@86a1.org
+DTSTART;VALUE=DATE:20231016
+SUMMARY:First Day Of Classes | 7-week Session 2
+UID:8ea99262-d254-445c-b778-9ba293b2cdcb@8ea9.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240617
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 8-Week Session 2\, 4-Week Session 2
-SUMMARY:Census Date
-UID:bcc8fbb3-6b0f-49df-9db5-7f6edd47c676@bcc8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241224
-DESCRIPTION:Offices Closed 
-SUMMARY: Presidents Day Observed
-UID:03d7562d-e63e-46e0-9ceb-8f79bc8b14a2@03d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251017
-SUMMARY:Autumn Break\; No Classes\, Offices Open | Autumn Semester
-UID:b72943b5-d529-410d-9c73-15ddfc8f4404@b729.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261220
-SUMMARY:Commencement | Autumn Semester\, Sessions
-UID:b20558f5-fb8f-478b-9cab-0125de387825@b205.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250504
-SUMMARY:Commencement | Spring Term/sessions
-UID:817c24f5-a14f-499e-a602-6dcb6c57e195@817c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251226
-SUMMARY:Academic Winter Recess\; Offices Closed
-UID:8dfad9b2-9711-4e17-9991-bca6cd8d2753@8dfa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251210
-SUMMARY:Last Day Of Classes | Autumn Semester\, 7-week Session 2
-UID:f06e3f5a-abbc-4278-b8e0-8058ad5d8525@f06e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241127
-DESCRIPTION:No Classes\, Offices Open | Autumn Full Term\, 7-Week Session 2
-SUMMARY:Thanksgiving Break Begins
-UID:65c6ebbb-ea91-4fbd-8e98-b850384dce98@65c6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250221
-SUMMARY:Last Day Of Classes | 7-week Session 1
-UID:e316c36a-883c-40bd-be47-949b96667b54@e316.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230619
-DESCRIPTION:No Classes\, Offices Closed | Summer Term/Sessions
-SUMMARY:Juneteenth National Independence Day
-UID:44dcc2a4-e647-4852-85a8-f817d711000c@44dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250829
-SUMMARY:Ohio Residency For Tuition Application Deadline | Autumn Semester\, Sessions
-UID:b66daa1b-5940-4e8f-a1e2-424d0956ba7c@b66d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270317
-SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
-UID:1aadfb6f-1698-4b95-9b3f-b1d45b10da98@1aad.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250429
-DESCRIPTION:Unpaid Accounts Subject To A Late Fee Beyond This Point
-SUMMARY:Initial Tuition\, Fee And University Residences And Dining Services Payment Deadline
-UID:63f8a7af-1ce8-4c2a-b03b-772a49a2a604@63f8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260318
-SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
-UID:156a0f10-01f7-4d7c-80f1-c512cce5f33d@156a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251225
-SUMMARY:Christmas Day\; Offices Closed
-UID:05533991-41f8-4945-bd92-37e03b545615@0553.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231206
-SUMMARY:Last Day Of Classes | Autumn Full Term\, 7-week Session 2
-UID:fd8a4dd1-cb5d-49a9-952c-8d6f399359d4@fd8a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-SUMMARY:Academic Winter Recess\; Offices Closed
-UID:5e5fa4e7-7a2d-43f0-a180-0e1978e9ce8a@5e5f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230717
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 4-Week Session 3
-SUMMARY:Census Date
-UID:bbf0bc06-a1f0-4708-9536-22cbcf5ed294@bbf0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250520
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | Summer Full Term\, 6-Week Session 1\, 8-Week Session 1\, 4-Week Session 1
-SUMMARY:Census Date
-UID:546c8acc-b6c2-4850-b90c-d999ef15de0b@546c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250530
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | 4-Week Session 1
-SUMMARY:Last Day Of Classes And Final Exams
-UID:bddc74b0-0d94-4fcd-9d35-4115c827ddb3@bddc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250429
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
-SUMMARY:Final Examinations
-UID:a8c7c773-0055-4286-99d0-bcaa617660ed@a8c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231225
-DESCRIPTION:Offices Closed | Spring Term/Sessions
-SUMMARY:Christmas Day Observed
-UID:99906d8d-3db0-448f-8ed0-61fc56819d8a@9990.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251217
+DTSTART;VALUE=DATE:20261216
 SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Autumn Semester\, 7-week Session 2
-UID:3efdc5a9-2d02-4491-b114-c2bd00181af9@3efd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251230
-SUMMARY:Academic Winter Recess\; Offices Closed
-UID:d4defdcc-de5e-4d27-bbff-b07d2495fcf5@d4de.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250424
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
-SUMMARY:Final Examinations
-UID:320f70d4-60e1-47fa-a534-e24dfb981875@320f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231011
-SUMMARY:Final Examinations | 7-week Session 1
-UID:b60aece3-0122-4c51-88f9-824432fd9310@b60a.org
+UID:01127ecf-71d7-4d68-a014-4fb9f8dd4b1e@0112.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240527
 DESCRIPTION:No Classes\, Office Closed | Summer Term/Sessions
 SUMMARY:Memorial Day
-UID:875a5a76-c52d-4c34-b815-fa5d7ac37611@875a.org
+UID:d33801a7-8cbe-494a-a4ea-4c8a74893989@d338.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260618
-SUMMARY:Last Day Of Classes And Final Exams | 6-week Session 1
-UID:ba3cd1f0-45e1-43ce-81a8-537fd1f8e8a0@ba3c.org
+DTSTART;VALUE=DATE:20241014
+SUMMARY:First Day Of Classes | 7-week Session 2
+UID:46a5896b-4726-499b-91a6-5324e7f8285b@46a5.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261228
-SUMMARY:Academic Winter Recess\; Offices Closed
-UID:3370eae5-cd8f-4bb4-85a0-bccbf36b9246@3370.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260818
-SUMMARY:Initial Tuition And Fee Payment Deadline\; Subsequent Deadlines On Statement Of Account | Autumn Semester\, Sessions
-UID:38f51e69-8c70-4bc2-9b29-37c13512e1e4@38f5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250310
-DESCRIPTION:No Classes\, Offices Open | Spring Full Term\, 7-Week Session 2
-SUMMARY:Spring Break
-UID:14361d88-e3f4-4825-b9f2-19f32e109148@1436.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251229
-SUMMARY:Academic Winter Recess\; Offices Closed
-UID:192e7016-7a93-4bf1-a3e3-2a15039886e4@192e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260809
-SUMMARY:Appeal Deadline For Ohio Residency For Tuition | Summer Semester\, Sessions
-UID:8f879fc2-2a04-4d56-83e1-ea1ae09a4dbb@8f87.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250613
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | 6-Week Session 1
-SUMMARY:Last Day Of Classes And Final Exams
-UID:ce4d3125-f3c2-4955-a387-bf0824170e84@ce4d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230728
-SUMMARY:Last Day Of Classes | Summer Full Term Session
-UID:f3230dd8-7ec1-4f83-af3f-ef8b262ae680@f323.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-SUMMARY:Autumn Break\; No Classes\, Offices Open | Autumn Semester
-UID:805bd146-2f0f-4d52-8888-698d0d10765f@805b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270301
-SUMMARY:Final Examinations | 7-week Session 1
-UID:81b66965-c552-4bf3-bb45-6caf62338e43@81b6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270226
-SUMMARY:Last Day Of Classes | 7-week Session 1
-UID:a3528ea7-243f-49f9-996b-e2b9e04b666d@a352.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240314
-DESCRIPTION:No Classes\, Offices Open | Spring Full Term\, 7-Week Session 2
-SUMMARY:Spring Break
-UID:22005465-a31f-4293-a98e-59d6b7641929@2200.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240603
-SUMMARY:First Day Of Classes | 8-week Session 2\, 4-week Session 2
-UID:c2de2225-8fec-444f-abeb-747bab118c8d@c2de.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260803
-SUMMARY:Final Exams | Summer Semester
-UID:558150c2-818c-4cdc-b1b3-927ffb96498b@5581.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260316
-SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
-UID:704fe886-ec55-428c-87f2-acb099464519@704f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251128
-SUMMARY:Indigenous People's Day/columbus Day (observed)\; No Classes\, Offices Closed | Autumn Semester\, 7-week Session 2
-UID:6cc55e95-4cea-43e7-a44c-bfe044966f56@6cc5.org
+DTSTART;VALUE=DATE:20240823
+DESCRIPTION:Online Form And All Requested Documentation
+SUMMARY:Ohio Residency For Tuition Application Deadline
+UID:e9ceff0d-781b-4090-934b-605a02e3ae58@e9ce.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260302
 SUMMARY:Final Examinations | 7-week Session 1
-UID:e73e66ef-572a-416e-9b0e-abe20dfddd64@e73e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231226
-DESCRIPTION:Offices Closed | Spring Term/Sessions
-SUMMARY: Presidents Day Observed
-UID:a7655ea1-d4c6-4890-8b66-117928f57394@a765.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240227
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | 7-Week Session 1
-SUMMARY:Final Examinations
-UID:e2c66c6e-f369-4215-8b84-901845c79e54@e2c6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231110
-DESCRIPTION:No Classes\, Offices Closed | Autumn Full Term\, 7-Week Session 2
-SUMMARY:Veteran's Day
-UID:58cbd5f9-4997-4bf8-832d-880b56487c53@58cb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250728
-SUMMARY:Final Exams | Summer Full Term
-UID:e17d0453-9412-4bef-b940-cb91ac35ee4b@e17d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230509
-SUMMARY:First Day Of Classes | Summer Full Term Session\, 6-week Session 1\, 8-week Session 1\, 4-week Session 1
-UID:19a0559d-c076-4e45-9c54-2ce59335825d@19a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240427
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
-SUMMARY:Final Examinations
-UID:fac20000-1f8c-4008-874a-f1418e1a7d36@fac2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230822
-SUMMARY:First Day Of Classes | Autumn Full Term\, 7-week Session 1
-UID:2e3e3a8f-c024-4bbb-8df6-a69fff1d9001@2e3e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251015
-SUMMARY:Final Examinations | 7-week Session 1
-UID:eb43d7ab-d22b-4b21-ab0d-cfa2c3dfd1c4@eb43.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250120
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date.) | Spring Full Term\, 7-Week Session 1
-SUMMARY: Census Date
-UID:e392c888-4cb7-46ce-a855-5a9e16a3aa89@e392.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250627
-DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | 8-Week Session 1\, 4-Week Session 2
-SUMMARY:Last Day Of Classes And Final Exams
-UID:4c3218f0-93a0-4972-90d1-f5e19d9a1869@4c32.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261014
-SUMMARY:Final Examinations | 7-week Session 1
-UID:53027b81-77dd-431a-8980-0afa6c6134b2@5302.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230904
-DESCRIPTION:No Classes\, Offices Closed | Autumn Full Term\, 7-Week Session 1
-SUMMARY:Labor Day
-UID:34fe05d4-d316-4cd8-814c-04b6fa0eca18@34fe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251127
-SUMMARY:Thanksgiving Day\; No Classes\, Offices Closed | Autumn Semester\, 7-week Session 2
-UID:a993bc48-0be7-476b-9745-708192c74744@a993.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240505
-SUMMARY:Commencement | Spring Term/sessions
-UID:8c2131e7-5786-4fa0-9a72-6e93cec050f7@8c21.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251016
-SUMMARY:Autumn Break\; No Classes\, Offices Open | Autumn Semester
-UID:716cbd3c-2514-4caa-8abe-c808d95a59d6@716c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261209
-SUMMARY:Last Day Of Classes | Autumn Semester\, 7-week Session 2
-UID:07949f9c-73d3-48b2-be3b-0e994841b232@0794.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260223
-SUMMARY:Course Registration Opens | Summer Semester\, Sessions
-UID:53e3515a-b1d3-47e6-a0de-83a20b0699fd@53e3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231217
-DESCRIPTION:Ohio Residency For Tuition | Autumn Term/Sessions
-SUMMARY:Appeal Deadline
-UID:44104cb3-cafe-4459-ae42-615f065b103c@4410.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251215
-SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Autumn Semester\, 7-week Session 2
-UID:86062f3c-dd25-4e50-bd78-23ba53202167@8606.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240804
-DESCRIPTION:Ohio Residency For Tuition | Summer Term/Sessions
-SUMMARY:Appeal Deadline
-UID:06b79009-7ab5-45da-8c65-35249f7a5995@06b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270509
-SUMMARY:Commencement | Spring Semester\, Sessions
-UID:9b4f7cda-d7a7-4c7a-9129-cc0f39dc13ae@9b4f.org
+UID:12d09fcc-4316-4561-8adb-021a9104b0cd@12d0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250526
 DESCRIPTION:No Classes\, Office Closed | Summer Term/Sessions
 SUMMARY:Memorial Day
-UID:8b305372-f2c0-4239-9e63-8e8a3d2b3b0f@8b30.org
+UID:a626cdb6-5f27-4c12-841e-8bbed0cb02b9@a626.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261215
-SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Autumn Semester\, 7-week Session 2
-UID:5d3e8567-57c7-421b-9f7d-e7abaffc8a05@5d3e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261230
-SUMMARY:Academic Winter Recess\; Offices Closed
-UID:93f1504f-8697-4537-8aee-09674273d43c@93f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241212
-SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
-UID:04a99b97-8ea8-4f03-b4cf-f5937873fcda@04a9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251221
-SUMMARY:Appeal Deadline For Ohio Residency For Tuition | Autumn Semester\, Sessions
-UID:8e686b5e-127f-4cc3-a718-4f1129b17d0d@8e68.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250730
-SUMMARY:Final Exams | Summer Full Term
-UID:959e456f-633b-4662-8c92-21db547e4c89@959e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250602
-SUMMARY:First Day Of Classes | 8-week Session 2\, 4-week Session 2
-UID:931524d2-4a24-47cc-95eb-11ee41895bbe@9315.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-SUMMARY:Academic Winter Recess\; Offices Closed
-UID:34b87529-604e-4dbb-abf2-d3050789b3bc@34b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240313
+DTSTART;VALUE=DATE:20250314
 DESCRIPTION:No Classes\, Offices Open | Spring Full Term\, 7-Week Session 2
 SUMMARY:Spring Break
-UID:8bf63c0e-f0cd-4204-b377-db616b99345d@8bf6.org
+UID:c9d41c76-c77f-4119-a272-4d42c95486da@c9d4.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260323
-SUMMARY:Course Registration Opens | Autumn Semester\, Sessions
-UID:2befd091-b972-4aa7-8f4d-ccca3714bb1a@2bef.org
+DTSTART;VALUE=DATE:20251013
+SUMMARY:Last Day Of Classes | 7-week Session 1
+UID:3fb3cadc-9d2c-4485-8b76-4a787c557275@3fb3.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260907
-SUMMARY:Labor Day\; No Classes\, Offices Closed | Autumn Semester\, 7-week Session 1
-UID:a858f350-6ca3-4e3f-aa49-7f0afdc4cc66@a858.org
+DTSTART;VALUE=DATE:20251225
+SUMMARY:Christmas Day\; Offices Closed
+UID:ef4d2e38-e013-49da-ae8d-99cc5e2088a6@ef4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230502
+DESCRIPTION:Unpaid Accounts Subject To A Late Fee Beyond This Point
+SUMMARY:Initial Tuition\, Fee And University Residences And Dining Services Payment Deadline
+UID:1f8c69e0-ba30-4385-8804-1d0962fb8043@1f8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
+UID:980bd5e2-41e8-4cac-92aa-9546973686a1@980b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230601
 DESCRIPTION:Deadline For Completion And Documentation Is The 1St Friday Of The Semester | Autumn Term/Sessions
 SUMMARY:Online Residency For Tuition Purposes Online Application Available
-UID:b358bdee-d7e0-4fa1-bfe6-4581b3544227@b358.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240730
-SUMMARY:Final Exams | Summer Full Term Session
-UID:50f7df15-b408-4567-a083-9005e35ae133@50f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250909
-SUMMARY:Enrollment Census Date | Autumn Semester\, 7-week Session 1
-UID:e55d2b6d-7e95-4f0f-b7b7-cfcdb0c5c38e@e55d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260825
-SUMMARY:First Day Of Classes | Autumn Semester\, 7-week Session 1
-UID:6829f3b3-0dc7-40ab-984c-07bc2756cad6@6829.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260515
-SUMMARY:Ohio Residency For Tuition Application Deadline | Summer Semester\, Sessions
-UID:3ff42139-0a59-4860-a20f-d92f329f73f4@3ff4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251101
-SUMMARY:Ohio Residency For Tuition Purposes Online Application Available | Spring Semester\, Sessions
-UID:d0c11a47-63db-44b5-954e-509b431a3178@d0c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270303
-SUMMARY:First Day Of Classes | 7-week Session 2
-UID:591b144d-01c8-4664-91ef-5b623344cde7@591b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241204
-SUMMARY:Last Day Of Classes | Autumn Full Term\, 7-week Session 2
-UID:04901104-c02a-4f05-a2fa-a38661f40768@0490.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270319
-SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
-UID:644ff0b4-b56b-45b3-aa00-e935f467f0ce@644f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230512
-SUMMARY:Ohio Residency For Tuition Application Deadline (online Form And All Requested Documentation) | Summer Term/sessions
-UID:eabfa6d1-564a-4cd2-bfd3-05bb7036b8b9@eabf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260525
-SUMMARY:Enrollment Census Date | Summer Semester\, 6-week Session 1\, 8-week Session 1\, 4-week Session 1
-UID:a4f07417-77b1-4eed-9073-3287d7c66cff@a4f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250819
-SUMMARY:Initial Tuition And Fee Payment Deadline\; Subsequent Deadlines On Statement Of Account | Autumn Semester\, Sessions
-UID:28831da3-b05d-479e-b18f-96075bdd59ae@2883.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260511
-SUMMARY:First Day Of Classes | Summer Semester\, 6-week Session 1\, 8-week Session 1\, 4-week Session 1
-UID:e49acd2a-8aaf-4bac-936a-b21bfc090e39@e49a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240701
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 6-Week Session 2
-SUMMARY:Census Date
-UID:4dd72ca9-4933-4b12-9da6-e653f790d25e@4dd7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270429
-SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2 
-UID:79d94231-7202-4d05-beba-f83e207c3d7b@79d9.org
+UID:c938c821-bda6-4f0b-ac1c-1f8e47cea4ba@c938.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241011
 DESCRIPTION:No Classes\, Offices Open  | Autumn Full Term\, 7-Week Session 2
 SUMMARY:Autumn Break October 10-11
-UID:5666b6c6-ee42-454f-a742-fd83756373e8@5666.org
+UID:d8cea2fb-321d-4c3a-9baf-7d5953d4b05a@d8ce.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230825
-DESCRIPTION:Online Form And All Requested Documentation | Autumn Term/Sessions
-SUMMARY:Ohio Residency For Tuition Application Deadline
-UID:7a4db743-57e6-47ad-8230-76e016babe2a@7a4d.org
+DTSTART;VALUE=DATE:20260618
+SUMMARY:Last Day Of Classes And Final Exams | 6-week Session 1
+UID:9f3e0230-1458-4f9e-a372-88123e587416@9f3e.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230905
-DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | Autumn Full Term\, 7-Week Session 1
-SUMMARY:Census Date
-UID:b2cb4439-f2c3-4ca3-afbb-6a216b64a2b2@b2cb.org
+DTSTART;VALUE=DATE:20240422
+SUMMARY:Last Day Of Classes | Spring Full Term\, 7-week Session 2
+UID:f1bf2505-80e7-4c98-9d95-acd12717e7e4@f1bf.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261211
+DTSTART;VALUE=DATE:20250429
+DESCRIPTION:Unpaid Accounts Subject To A Late Fee Beyond This Point
+SUMMARY:Initial Tuition\, Fee And University Residences And Dining Services Payment Deadline
+UID:95389709-980d-4632-a5ea-4146f7d5dadc@9538.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260809
+SUMMARY:Commencement | Summer Semester\, Sessions
+UID:e9a44e19-877b-41ff-91d2-2d7b81bddabf@e9a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251211
+SUMMARY:Reading Day | Autumn Semester\, 7-week Session 2
+UID:17b9d546-1258-41b1-ba60-7313bb70f418@17b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250602
+SUMMARY:First Day Of Classes | 8-week Session 2\, 4-week Session 2
+UID:a1a7b2de-7708-4e18-b9b3-e60b88856651@a1a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+SUMMARY:Last Day Of Classes And Final Exams | 6-week Session 2\, 8-week Session 2\, 4-week Session 3
+UID:9c31bd2e-f0ea-4225-9ab0-49a560b2c41e@9c31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231206
+SUMMARY:Last Day Of Classes | Autumn Full Term\, 7-week Session 2
+UID:94f705d2-ed75-43d0-920a-d4aad4c9a96b@94f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230512
+SUMMARY:Ohio Residency For Tuition Application Deadline (online Form And All Requested Documentation) | Summer Term/sessions
+UID:c729972b-31d4-457b-8e6d-c8d3d3d79ea7@c729.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241215
+DESCRIPTION: Ohio Residency For Tuition | Autumn Term/Sessions
+SUMMARY:Appeal Deadline
+UID:337b5ed3-3c15-48ef-b2b8-314844ad8a97@337b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251215
 SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Autumn Semester\, 7-week Session 2
-UID:9eaac652-6d90-4660-9d03-a7f7ae89825b@9eaa.org
+UID:4e1d9ce8-a313-4287-a277-d31b4cb5de8c@4e1d.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250311
-DESCRIPTION:No Classes\, Offices Open | Spring Full Term\, 7-Week Session 2
-SUMMARY:Spring Break
-UID:97219c75-8f9c-4043-98f9-44766ba55ba1@9721.org
+DTSTART;VALUE=DATE:20270429
+SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2 
+UID:403a6339-ce76-445f-a036-9155f9a61717@403a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241007
-SUMMARY:Last Day Of Classes | 7-week Session 1
-UID:0225e301-96fa-42fc-9bea-87d06a225bfa@0225.org
+DTSTART;VALUE=DATE:20231225
+DESCRIPTION:Offices Closed | Spring Term/Sessions
+SUMMARY:Christmas Day Observed
+UID:d792a99d-35de-4f22-aeba-4755fc183940@d792.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260505
+DTSTART;VALUE=DATE:20251221
+SUMMARY:Appeal Deadline For Ohio Residency For Tuition | Autumn Semester\, Sessions
+UID:8f593c74-3bcb-4c4a-af86-29832ee244c3@8f59.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240715
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 4-Week Session 3
+SUMMARY:Census Date
+UID:70cfeca6-4421-4367-84c4-a57a0663ecb4@70cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231101
+DESCRIPTION:Deadline For Completion And Documentation Is The 1St Friday Of The Semester | Spring Term/Sessions
+SUMMARY:Online Residency For Tuition Purposes Online Application Available
+UID:50dfb156-adee-408f-9ee6-7e209fbd2599@50df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241215
+SUMMARY:Commencement | Autumn Term/sessions
+UID:1a702686-49f9-4af3-881e-e0249bdfcc0c@1a70.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240603
+SUMMARY:First Day Of Classes | 8-week Session 2\, 4-week Session 2
+UID:2a39ea37-10c5-4de0-9c21-897def846894@2a39.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240507
+SUMMARY:First Day Of Classes | Summer Full Term Session\, 6-week Session 1\, 8-week Session 1\, 4-week Session 1
+UID:8a53dfe4-215a-4daa-909f-f288c1566aa2@8a53.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230801
+SUMMARY:Final Exams | Summer Full Term Session
+UID:a7092d1c-6520-4fe2-8cf7-fa4a168db9e7@a709.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240601
+DESCRIPTION:Deadline For Completion And Documentation Is The 1St Friday Of The Semester | Autumn Term/Sessions
+SUMMARY:Online Residency For Tuition Purposes Online Application Available
+UID:8de0dfca-a271-4347-be41-3f72b97290ed@8de0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261013
+SUMMARY:Final Examinations | 7-week Session 1
+UID:37efa8f7-f04a-4cd6-a86d-fb11b5b72bfd@37ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240804
+SUMMARY:Commencement | Summer Term/sessions
+UID:2bf41a5c-191b-49a0-b434-9408b3ddb2ee@2bf4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
 SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2
-UID:2b69c0b6-27a8-40e4-878a-0b5299b67ec2@2b69.org
+UID:ec1d9a00-730d-46ca-997d-dc7b7a636b37@ec1d.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240820
-SUMMARY:First Day Of Classes | Autumn Full Term\, 7-week Session 1
-UID:2743a240-3bd0-47d9-870c-b23d7b30a664@2743.org
+DTSTART;VALUE=DATE:20270319
+SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
+UID:f1f4b55a-6975-44db-829d-e2a0f1269a1c@f1f4.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
-SUMMARY:Enrollment Census Date | 7-week Session 2
-UID:e819202e-a71b-40cf-8fdc-294df4758c8a@e819.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230704
-DESCRIPTION:No Classes\, Office Closed | Summer Term/Sessions
-SUMMARY:Independence Day Observed
-UID:1d401ff4-c585-4d1d-bb94-585462078148@1d40.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240628
-DESCRIPTION:Finals For Session Courses May Be Designation To Other Dates | 8-Week Session 1\, 4-Week Session 2
-SUMMARY:Last Day Of Classes And Final Exams
-UID:18e15619-110e-436a-9162-8ca8195e5354@18e1.org
+DTSTART;VALUE=DATE:20260428
+SUMMARY:Reading Day | Spring Semester\, 7-week Session 2
+UID:00cdf336-7c64-4193-ba63-bf3b106a7641@00cd.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241009
 SUMMARY:Final Examinations | 7-week Session 1
-UID:f872e8a2-3c9c-49df-bcea-c3d8b1e6eeb7@f872.org
+UID:279e0726-de4c-4da0-9c71-2fc4731e97eb@279e.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241128
-DESCRIPTION:No Classes\, Offices Closed | Autumn Full Term\, 7-Week Session 2
-SUMMARY:Thanksgiving Day
-UID:7204757a-320c-44d2-92f9-8e092b621ef0@7204.org
+DTSTART;VALUE=DATE:20250730
+SUMMARY:Final Exams | Summer Full Term
+UID:695f2f89-d46d-48a1-a151-b0ea1473e667@695f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231012
+DESCRIPTION:No Classes\, Offices Open October 12-13 | Autumn Full Term\, 7-Week Session 2
+SUMMARY:Autumn Break
+UID:99ec39da-9691-481b-af25-9f531aa73c7e@99ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270301
+SUMMARY:Final Examinations | 7-week Session 1
+UID:a03633bd-4972-4496-a237-c29471f78f92@a036.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241212
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
+UID:2033402b-681e-4392-ac95-14b6831961fb@2033.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250110
+DESCRIPTION:Online Form And All Requested Documentation | Spring Term/Sessions
+SUMMARY:Ohio Residency For Tuition Application Deadline
+UID:6ee3150a-db59-4e75-b7ec-b3edb8103c0a@6ee3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240425
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
+SUMMARY:Final Examinations
+UID:f745fe7d-0c4f-49ce-af0f-0d90503346c5@f745.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240505
+SUMMARY:Commencement | Spring Term/sessions
+UID:15ba202f-8eaa-40b7-9f35-99fa36f884fd@15ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250909
+SUMMARY:Enrollment Census Date | Autumn Semester\, 7-week Session 1
+UID:5fef520e-f791-4d01-9b7a-67a168dc0951@5fef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250312
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date.) | 7-Week Session 2
+SUMMARY:Census Date
+UID:5eb0b2ba-b34d-4961-a3bb-f322e43b3334@5eb0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230802
+SUMMARY:Final Exams | Summer Full Term Session
+UID:6cfe0354-d964-4bcb-9f9b-6f9a9ddcb7fd@6cfe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+SUMMARY:Academic Winter Recess\; Offices Closed
+UID:7735e5bb-83f9-4821-8623-9b826865669e@7735.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250504
+DESCRIPTION: Ohio Residency For Tuition | Spring Term/Sessions
+SUMMARY:Appeal Deadline
+UID:29a243eb-97e1-4322-b3fb-fbe4b5a1e0d0@29a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250429
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
+SUMMARY:Final Examinations
+UID:75b13a39-5b2a-4ab6-b7fc-5b64608bccc3@75b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251101
+SUMMARY:Ohio Residency For Tuition Purposes Online Application Available | Spring Semester\, Sessions
+UID:d142fb56-bec6-452d-9dcf-bd454b3d104b@d142.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261209
+SUMMARY:Last Day Of Classes | Autumn Semester\, 7-week Session 2
+UID:df38a4b6-0762-437e-a7c8-3ae8827dcbd0@df38.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270104
+SUMMARY:Initial Tuition And Fee Payment Deadline\; Subsequent Deadlines On Statement Of Account | Spring Semester\, Sessions
+UID:cdef8f8d-0f37-45dd-935a-886c32b840fd@cdef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260429
+SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2
+UID:ae4e43f5-23b3-40d2-bf42-3f19b9995a53@ae4e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251017
+SUMMARY:Autumn Break\; No Classes\, Offices Open | Autumn Semester
+UID:5a86d727-23f6-4ce9-a1f2-f084b8ec472c@5a86.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240426
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
+SUMMARY:Final Examinations
+UID:889ccd64-c784-4f2a-a11d-a585cd491849@889c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251103
+SUMMARY:Enrollment Census Date | 7-week Session 2
+UID:1d86419f-0a78-4061-851e-d0777ce324d8@1d86.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230619
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 8-Week Session 2\, 4-Week Session 2
+SUMMARY:Census Date
+UID:92f2034d-c8dc-442d-8935-1dbe9d5fb325@92f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250313
+DESCRIPTION:No Classes\, Offices Open | Spring Full Term\, 7-Week Session 2
+SUMMARY:Spring Break
+UID:08683592-d117-4c5b-a9fa-5b7b2fc9a475@0868.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250819
+SUMMARY:Initial Tuition And Fee Payment Deadline\; Subsequent Deadlines On Statement Of Account | Autumn Semester\, Sessions
+UID:5f572e90-ad3f-4269-b56d-86179aad4afe@5f57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231011
+SUMMARY:Final Examinations | 7-week Session 1
+UID:5e3b7a74-cf4c-44ba-ad69-dca27d837348@5e3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+SUMMARY:Last Day Of Classes | 7-week Session 1
+UID:2fad3fc4-ca66-4800-a941-e536001ba7e7@2fad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240228
+SUMMARY:First Day Of Classes  | 7-week Session 2
+UID:d10b3eab-f0d2-45c6-9711-9f929c7f4871@d10b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230731
+SUMMARY:Final Exams | Summer Full Term Session
+UID:dda4dcd3-2b86-4005-96d7-2cbe8e3dbb3d@dda4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270101
+SUMMARY:New Year's Day\; Offices Closed
+UID:ac31c92f-7fab-400f-9808-f7735d90a8df@ac31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250317
+SUMMARY:Course Registration Opens | Autumn Semester\, Sessions
+UID:aa7b3197-8e92-4da2-a49e-9f9f0536c02f@aa7b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231226
+DESCRIPTION:Offices Closed | Spring Term/Sessions
+SUMMARY: Presidents Day Observed
+UID:ab066d64-4f0d-4385-a011-16228d72e65b@ab06.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230904
+DESCRIPTION:No Classes\, Offices Closed | Autumn Full Term\, 7-Week Session 1
+SUMMARY:Labor Day
+UID:35b0e402-ae66-4b39-b945-67ee00e96612@35b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241211
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
+UID:a089ef14-3aa8-4807-a09b-a2d351fefd26@a089.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231213
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
+UID:d584e0a8-6bfd-47b3-834b-82bcce46109c@d584.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230619
+DESCRIPTION:No Classes\, Offices Closed | Summer Term/Sessions
+SUMMARY:Juneteenth National Independence Day
+UID:46be2833-95cb-4f8d-b785-4dd752fa9878@46be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260720
+SUMMARY:Enrollment Census Date | 4-week Session 3
+UID:71e9a489-5003-473a-abae-476b613766eb@71e9.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230630
 DESCRIPTION:Finals For Session Courses May Be Designation To Other Dates | 8-Week Session 1\, 4-Week Session 2
 SUMMARY:Last Day Of Classes And Final Exams
-UID:5d5c3a71-f0f5-45b5-a5b5-037b29a59223@5d5c.org
+UID:c82b140b-b79c-4e05-bc84-ac7e6b9a7dd4@c82b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250506
+SUMMARY:First Day Of Classes | Summer Full Term\, 6-week Session 1\, 8-week Session 1\, 4-week Session 1
+UID:feaf55eb-090e-4b64-acea-d0f1e3912d86@feaf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231217
+SUMMARY:Commencement | Autumn Term/sessions
+UID:f201aad9-024b-4e06-bd3a-8d4bf6eae5dc@f201.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261211
+SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Autumn Semester\, 7-week Session 2
+UID:27215fc1-bad5-4135-a3ee-2fbc4cd8cf15@2721.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250504
+SUMMARY:Commencement | Spring Term/sessions
+UID:d57fb9fb-1f0b-45f1-99a1-09ba652366f9@d57f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230825
+DESCRIPTION:Online Form And All Requested Documentation | Autumn Term/Sessions
+SUMMARY:Ohio Residency For Tuition Application Deadline
+UID:2db71c1b-4add-4512-b4ff-85e22d6722d4@2db7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231110
+DESCRIPTION:No Classes\, Offices Closed | Autumn Full Term\, 7-Week Session 2
+SUMMARY:Veteran's Day
+UID:21406016-df15-4833-9db3-dce5b1d4d0c5@2140.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251016
+SUMMARY:Autumn Break\; No Classes\, Offices Open | Autumn Semester
+UID:f60aa6ba-72b9-47e0-9d20-c69e5ba79967@f60a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261217
+SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Autumn Semester\, 7-week Session 2
+UID:09a9e92e-ba5b-4312-9258-9b0475f50639@09a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260805
+SUMMARY:Final Exams | Summer Semester
+UID:45f68bb6-5802-4bf2-b3cf-61c24dc677ec@45f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260702
+SUMMARY:Last Day Of Classes And Final Exams | 8-week Session 1\, 4-week Session 2
+UID:59882b44-6530-47c6-986b-c1a8be6774d4@5988.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240617
+SUMMARY:First Day Of Classes | 6-week Session 2
+UID:f39312fc-8755-41d3-ac20-0994b355ecb5@f393.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250226
+SUMMARY:First Day Of Classes | 7-week Session 2
+UID:9a1d3ffc-abe6-47de-b39c-7d451d2741bf@9a1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Veterans Day\; No Classes\, Offices Closed | Autumn Semester\, 7-week Session 2
+UID:29b17f1c-ab0d-40f1-9863-322885290725@29b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251210
+SUMMARY:Last Day Of Classes | Autumn Semester\, 7-week Session 2
+UID:f51dce9c-20e1-4e18-8681-4ac161d3a7b9@f51d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250310
+DESCRIPTION:No Classes\, Offices Open | Spring Full Term\, 7-Week Session 2
+SUMMARY:Spring Break
+UID:216031a8-b987-4cc5-ae95-a73c2568e39f@2160.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250425
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
+SUMMARY:Final Examinations
+UID:b44e9123-ada2-46e9-a813-f14a64f204ec@b44e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251212
+SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Autumn Semester\, 7-week Session 2
+UID:502d1c8b-7eaa-4eeb-b71c-93f865ee27b5@502d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+SUMMARY:Final Examinations | 7-week Session 1
+UID:852e9b85-c1c1-4c06-b5af-69fef55ca393@852e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260622
+SUMMARY:First Day Of Classes | 6-week Session 2
+UID:f436db6f-a1b4-4902-bec4-c81786900e4a@f436.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240112
+SUMMARY:Ohio Residency For Tuition Application Deadline -online Form And All Requested Documentation | Spring Term/sessions
+UID:4c04e6ca-546a-4047-a71e-806091df77fe@4c04.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270226
+SUMMARY:Last Day Of Classes | 7-week Session 1
+UID:2ef3a318-f30c-4903-a196-c08acb7405ba@2ef3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250311
+DESCRIPTION:No Classes\, Offices Open | Spring Full Term\, 7-Week Session 2
+SUMMARY:Spring Break
+UID:0456d803-5f28-40d9-8699-c14b963cc4b0@0456.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270427
+SUMMARY:Reading Day | Spring Semester\, 7-week Session 2
+UID:375be3d9-b6fe-429c-9f0e-2c661d72a90f@375b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250627
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | 8-Week Session 1\, 4-Week Session 2
+SUMMARY:Last Day Of Classes And Final Exams
+UID:0a19c845-ef1c-4c47-a499-671b9e5d7a85@0a19.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250619
+DESCRIPTION:No Classes\, Offices Closed | Summer Term/Sessions
+SUMMARY:Juneteenth National Independence Day
+UID:3f3740bc-5fd9-4e5e-864e-a3ff18a20c0c@3f37.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251128
+SUMMARY:Indigenous People's Day/columbus Day (observed)\; No Classes\, Offices Closed | Autumn Semester\, 7-week Session 2
+UID:c4471c31-a3c6-4cee-99b9-9d77b6ba57c7@c447.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260427
+SUMMARY:Last Day Of Classes | Spring Semester\, 7-week Session 2
+UID:410db332-bcfe-4039-99f2-1efa2e9f5921@410d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231010
+SUMMARY:Final Examinations | 7-week Session 1
+UID:acfa777a-9e69-4736-bb48-ce385e801fd9@acfa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+SUMMARY:First Day Of Classes | Spring Semester\, 7-week Session 1
+UID:9407b696-c67a-446d-834f-9979df644ccd@9407.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230616
+DESCRIPTION:Finals For Session Courses May Be Designation To Other Dates | 6-Week Session 1
+SUMMARY:Last Day Of Classes And Final Exams
+UID:28b70b48-318e-4bd6-b825-317c69d1335f@28b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250424
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
+SUMMARY:Final Examinations
+UID:22e4d367-0990-4e3d-afa8-85bcc959f7d8@22e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240423
+SUMMARY:Reading Day | Spring Full Term\, 7-week Session 2
+UID:d2911f0a-37aa-4087-ab11-a6af658582c0@d291.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250106
+SUMMARY:First Day Of Classes | Spring Full Term\, 7-week Session 1
+UID:ab9e6b3d-bb30-4ef3-b5d3-7e5d83e206cd@ab9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251221
+SUMMARY:Commencement | Autumn Semester\, Sessions
+UID:e0cd7573-4db5-4f64-9454-a5ac61020f41@e0cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250714
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 4-Week Session 3
+SUMMARY:Census Date
+UID:0fa91895-5ae4-4da2-997b-a53ce999059a@0fa9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240427
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
+SUMMARY:Final Examinations
+UID:b87f4f1e-eb13-4634-adf0-5cac52a3002f@b87f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251229
+SUMMARY:Academic Winter Recess\; Offices Closed
+UID:b80bfd48-c8dd-46c8-81c5-d3d68f7961f3@b80b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251020
+SUMMARY:First Day Of Classes | 7-week Session 2
+UID:34599968-2199-40b2-a21d-707e1ac7926a@3459.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241008
+SUMMARY:Final Examinations | 7-week Session 1
+UID:2e9e48d6-88fa-4086-af61-36f0c63d414b@2e9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+SUMMARY:Last Day Of Classes | Summer Semester
+UID:1cbd9a15-b2b5-41a3-9899-b9f958034c0f@1cbd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250803
+SUMMARY:Commencement | Summer Term/sessions
+UID:899be905-3ad8-46b7-91eb-f5c714cac584@899b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231211
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
+UID:c824950b-a5bb-4f02-91c3-d558648f1878@c824.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240108
+SUMMARY:First Day Of Classes | Spring Full Term\, 7-week Session 1
+UID:4e21e1ee-178a-489f-a79a-31d898529100@4e21.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240531
+DESCRIPTION:Finals For Session Courses May Be Designation To Other Dates | 4-Week Session 1
+SUMMARY:Last Day Of Classes And Final Exams
+UID:b74d5d38-cda8-4c14-bb97-55f259b8b7b1@b74d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241230
+DESCRIPTION:Unpaid Accounts Subject To A Late Fee Beyond This Point
+SUMMARY:Initial Tuition\, Fee And University Residences And Dining Services Payment Deadline
+UID:d8131a89-249a-4182-9913-a6e19f7d1665@d813.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230301
+SUMMARY:Ohio Residency For Tuition Online Application Available  | Summer Term/sessions
+UID:3c8cf03b-d278-47c5-8f46-a0aa7b04b0cb@3c8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
+UID:1aea5429-7c86-4267-b721-d3db7fd493f6@1aea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240704
+DESCRIPTION:No Classes\, Office Closed | Summer Term/Sessions
+SUMMARY:Independence Day Observed
+UID:9a5fe728-ca52-404b-93c0-9fe447887f52@9a5f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230822
+SUMMARY:First Day Of Classes | Autumn Full Term\, 7-week Session 1
+UID:ceaa6dcb-555e-4889-96ac-d885e515fba7@ceaa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+SUMMARY:Academic Winter Recess\; Offices Closed
+UID:dacc9b69-b432-4ba9-ac0e-01bae1f4b244@dacc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241028
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 7-Week Session 2
+SUMMARY:Census Date
+UID:e99b2aeb-8b51-4c3b-9d4f-e6f8ff030c90@e99b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
+UID:e873bf4c-3a55-4778-8a9c-c78063013629@e873.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240820
+SUMMARY:First Day Of Classes | Autumn Full Term\, 7-week Session 1
+UID:c9a0147f-8839-42f4-b978-a5e0cba7d195@c9a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250704
+DESCRIPTION:No Classes\, Office Closed | Summer Term/Sessions
+SUMMARY:Independence Day Observed
+UID:1a54fb75-5414-44ed-9873-02be7452342c@1a54.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231207
+SUMMARY:Reading Day  | Autumn Full Term\, 7-week Session 2
+UID:0f64b241-c846-4041-a6c9-d92d7a9fecca@0f64.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270430
+SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2 
+UID:51fa3bcf-ff13-4bc9-9ed3-4f0bd8eeee82@51fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231123
+DESCRIPTION:No Classes\, Offices Closed | Autumn Full Term\, 7-Week Session 2
+SUMMARY:Thanksgiving Day
+UID:262e7b7b-fb01-483d-b35a-12bcfe0c72d7@262e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+SUMMARY:Appeal Deadline For Ohio Residency For Tuition | Spring Semester\, Sessions
+UID:66b64176-088a-48ad-a467-bc9bccfd1b66@66b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250312
+DESCRIPTION:No Classes\, Offices Open | Spring Full Term\, 7-Week Session 2
+SUMMARY:Spring Break
+UID:a8fe952d-5ea2-4b79-a4eb-d7f74be05a57@a8fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251014
+SUMMARY:Final Examinations | 7-week Session 1
+UID:9a68f9cc-af94-4f33-ae54-065456157ae5@9a68.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270504
+SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2 
+UID:230ec1d7-bbbd-4cc6-9155-6df40ef59d99@230e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240122
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date.) | Spring Full Term\, 7-Week Session 1
+SUMMARY: Census Date
+UID:714520fe-80dd-4167-b389-a0d5bb89c1f1@7145.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240115
+DESCRIPTION:No Classes\, Offices Closed | Spring Full Term\, 7-Week Session 1
+SUMMARY:Martin Luther King Day
+UID:5bcce78d-58cd-4e5e-a9c2-1047f38591fc@5bcc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270509
+SUMMARY:Appeal Deadline For Ohio Residency For Tuition | Spring Semester\, Sessions 
+UID:30ebdd73-df02-42d1-a4da-b99355780ba4@30eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240701
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 6-Week Session 2
+SUMMARY:Census Date
+UID:fe8c5e5e-8f10-4f34-8d43-0dba10f52ed3@fe8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261215
+SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Autumn Semester\, 7-week Session 2
+UID:f5e4d283-7e1c-4998-abc9-2264a36e58db@f5e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240311
+DESCRIPTION:No Classes\, Offices Open | Spring Full Term\, 7-Week Session 2
+SUMMARY:Spring Break
+UID:bc85d2ef-a493-4a71-89cf-158ac2a2e71a@bc85.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241210
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
+UID:1d01ea62-6e8e-4c10-9dbc-ecb0104bb0c2@1d01.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270428
+SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2 
+UID:64b562c3-c70c-4f2c-98f1-381acf6c713f@64b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250120
+DESCRIPTION:No Classes\, Offices Closed | Spring Full Term\, 7-Week Session 1
+SUMMARY:Martin Luther King Day
+UID:4838bde8-22f9-4a4c-9416-366f8bac9598@4838.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+SUMMARY:First Day Of Classes | 7-week Session 2
+UID:ef2b8c5f-8f3e-47fa-ba1c-0519538fca1c@ef2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240428
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
+SUMMARY:Final Examinations
+UID:b5df6794-4f80-4e55-8f02-90bff9af5d3e@b5df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270111
+SUMMARY:First Day Of Classes | Spring Semester\, 7-week Session 1
+UID:9490f3d0-d196-45c4-b275-03d4d395501c@9490.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240226
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | 7-Week Session 1
+SUMMARY:Final Examinations
+UID:5033dd02-2dc0-4991-8f09-4d27952cddd2@5033.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241129
+DESCRIPTION:No Classes\, Offices Closed | Autumn Full Term\, 7-Week Session 2
+SUMMARY:Indigenous Peoples Day/columbus Day (observed)
+UID:018a675c-cbeb-4e8b-b3bf-1a564f57c462@018a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250826
+SUMMARY:First Day Of Classes | Autumn Semester\, 7-week Session 1
+UID:6715d1a3-ab3e-4e56-890e-44f8156849b5@6715.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231030
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 7-Week Session 2
+SUMMARY:Census Date
+UID:0dbc301f-d457-428b-a4a1-3d1d278ae5a2@0dbc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241204
+SUMMARY:Last Day Of Classes | Autumn Full Term\, 7-week Session 2
+UID:7ab1dfb9-7e95-4109-9958-0b3a30f2393d@7ab1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230815
+DESCRIPTION:Unpaid Accounts Subject To A Late Fee Beyond This Point
+SUMMARY:Initial Tuition\, Fee And University Residences And Dining Services Payment Deadline
+UID:607f5b89-eb38-4cad-9d5a-ea8877b727b4@607f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250725
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Summer Full Term\, 6-Week Session 2\, 8-Week Session 2\, 4-Week Session 3
+SUMMARY:Last Day Of Classes And Final Exams
+UID:5f1900b6-27f4-4e3a-bec6-9db787f289ad@5f19.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240227
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | 7-Week Session 1
+SUMMARY:Final Examinations
+UID:505479f4-08d2-4aa9-887d-12a8ed7edb33@5054.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250613
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | 6-Week Session 1
+SUMMARY:Last Day Of Classes And Final Exams
+UID:b91141c2-aa02-447e-90ad-6338f724124e@b911.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240804
+DESCRIPTION:Ohio Residency For Tuition | Summer Term/Sessions
+SUMMARY:Appeal Deadline
+UID:a8478b16-1f24-4329-97e7-efc7380481dd@a847.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250728
+SUMMARY:Final Exams | Summer Full Term
+UID:53588f7a-ccf2-4290-bce9-610b8749064a@5358.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250224
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | 7-Week Session 1
+SUMMARY:Final Examinations
+UID:15afdb40-f104-40c4-b5f7-2cc0f81f74fa@15af.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260504
+SUMMARY:Initial Tuition And Fee Payment Deadline\; Subsequent Deadlines On Statement Of Account | Summer Semester\, Sessions
+UID:3c3a6d02-cf75-4f4f-ba0a-fb4d5f397140@3c3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+DESCRIPTION:Offices Closed | Spring Term/Sessions
+SUMMARY:New Year's Day
+UID:0bbc38c2-32ad-4ed4-9bce-b22bb7fe1f40@0bbc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Thanksgiving Break Begins\; No Classes\, Offices Open | Autumn Semester\, 7-week Session 2
+UID:cec0f6c6-5c6f-4332-b116-101a057cb000@cec0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230529
+DESCRIPTION:No Classes\, Office Closed | Summer Term/Sessions
+SUMMARY:Memorial Day
+UID:05c6ebe8-8bdd-4c6b-88be-4911ec248730@05c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260525
+SUMMARY:Enrollment Census Date | Summer Semester\, 6-week Session 1\, 8-week Session 1\, 4-week Session 1
+UID:0b2bbd2e-1427-4adb-82ed-840346dd450d@0b2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250428
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
+SUMMARY:Final Examinations
+UID:e12d1099-9d6d-4a24-a84c-9404f79b0616@e12d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260706
+SUMMARY:Enrollment Census Date | 6-week Session 2
+UID:955755a5-6b4e-47aa-b274-94f274b52949@9557.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241225
+DESCRIPTION:Offices Closed
+SUMMARY:Christmas Day Observed
+UID:2ef1c9fe-39a1-4ba1-adb3-0759f864ed95@2ef1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240521
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | Summer Full Term Session\, 6-Week Session 1\, 8-Week Session 1\, 4-Week Session 1
+SUMMARY:Census Date
+UID:df083f4d-6bb9-4d77-a71b-7bb38f236514@df08.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261224
+SUMMARY:Presidents' Day (observed)\; Offices Closed
+UID:655c49ae-85e0-4201-bfaa-a9bdcc2ef796@655c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+SUMMARY:Ohio Residency For Tuition Application Deadline | Summer Semester\, Sessions
+UID:5ec53caa-3566-4bf7-a904-2e6ccd7ed9d9@5ec5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+SUMMARY:Christmas Day\; Offices Closed
+UID:c8e58832-4970-4937-a942-ca7b148662c7@c8e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240813
+DESCRIPTION:Unpaid Accounts Subject To A Late Fee Beyond This Point
+SUMMARY:Initial Tuition\, Fee And University Residences And Dining Services Payment Deadline
+UID:0cca99dc-9ae9-45e2-bc09-86e940fa9638@0cca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251216
+SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Autumn Semester\, 7-week Session 2
+UID:8adb61ec-bd47-4a69-89e5-be11f53149cd@8adb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230620
+SUMMARY:First Day Of Classes | 6-week Session 2
+UID:0bcb4312-ce34-43d7-8458-8c67357ccce3@0bcb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250829
+SUMMARY:Ohio Residency For Tuition Application Deadline | Autumn Semester\, Sessions
+UID:4650c2e5-78cf-4d07-aeb1-810b0ffba07b@4650.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240219
+SUMMARY:Registration Opens- Refer To Buckeye Link For Enrollment Appointment | Summer Term/sessions
+UID:feca3416-a6c4-4aa2-bba6-cfec3816fb17@feca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+SUMMARY:Course Registration Opens | Autumn Semester\, Sessions
+UID:364860d7-472d-4b9d-ac04-6048bfc4c30a@3648.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231013
+DESCRIPTION:No Classes\, Offices Open October 12-13 | Autumn Full Term\, 7-Week Session 2
+SUMMARY:Autumn Break
+UID:5dc5aa83-d820-4bef-8201-55e84cc52ac8@5dc5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260809
+SUMMARY:Appeal Deadline For Ohio Residency For Tuition | Summer Semester\, Sessions
+UID:f6040fb7-7167-4d08-ac90-2b0963c129fe@f604.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+SUMMARY:Last Day Of Classes | 7-week Session 1
+UID:7b97c2c3-dfb4-4342-b67d-e8254220432c@7b97.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260804
+SUMMARY:Final Exams | Summer Semester
+UID:c1f9f537-2cad-4af3-a82a-3c198a3299b0@c1f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250221
+SUMMARY:Last Day Of Classes | 7-week Session 1
+UID:7db76ee5-2485-4165-8514-129cf76bc0df@7db7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
+UID:dd3f87c7-195c-4389-bcbe-e01f0e1edbbf@dd3f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261228
+SUMMARY:Academic Winter Recess\; Offices Closed
+UID:3d2b395d-58db-4734-87a2-f061a604910e@3d2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250520
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | Summer Full Term\, 6-Week Session 1\, 8-Week Session 1\, 4-Week Session 1
+SUMMARY:Census Date
+UID:0d3bc86e-f189-45ad-a0df-740483afb5c4@0d3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260505
+SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2
+UID:8fa220e3-4506-4f11-bbf6-b280b3cf0021@8fa2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260511
+SUMMARY:First Day Of Classes | Summer Semester\, 6-week Session 1\, 8-week Session 1\, 4-week Session 1
+UID:f6e8db8b-f8fc-4efc-9175-18d42ddfc9b8@f6e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250530
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | 4-Week Session 1
+SUMMARY:Last Day Of Classes And Final Exams
+UID:ef179693-34cb-4a7c-8c95-095a2134c4b9@ef17.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240313
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date.) | 7-Week Session 2
+SUMMARY:Census Date
+UID:f006fb50-24f7-40d2-b5f9-b4bb025bc7c1@f006.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270509
+SUMMARY:Commencement | Spring Semester\, Sessions
+UID:644424da-9f72-46be-8a08-94d684def672@6444.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241206
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
+UID:7392fc78-3f58-451c-8d53-10456a2691d8@7392.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DESCRIPTION:No Classes\, Offices Closed | Autumn Full Term\, 7-Week Session 2
+SUMMARY:Veteran's Day
+UID:d416e3a7-6011-42a5-815e-bce304101d44@d416.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261220
+SUMMARY:Commencement | Autumn Semester\, Sessions
+UID:5ac613bb-d048-4e72-ab44-3b531187442e@5ac6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230703
+SUMMARY:First Day Of Classes | 4-week Session 3
+UID:1f90037b-45ad-4ce5-863b-f103460a338c@1f90.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240614
+DESCRIPTION:Finals For Session Courses May Be Designation To Other Dates | 6-Week Session 1
+SUMMARY:Last Day Of Classes And Final Exams
+UID:6b2d6cdc-e3b5-420b-a04f-3d7f23e22a2d@6b2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230704
+DESCRIPTION:No Classes\, Office Closed | Summer Term/Sessions
+SUMMARY:Independence Day Observed
+UID:b066d9f8-69d1-4d99-8944-ff18cd41262d@b066.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250630
+SUMMARY:First Day Of Classes | 4-week Session 3
+UID:1ff5e86b-b810-493c-abfb-f9f859673b94@1ff5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+SUMMARY:Commencement | Spring Semester\, Sessions
+UID:74d27022-d52b-45b2-891c-379b01c4f324@74d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260223
+SUMMARY:Course Registration Opens | Summer Semester\, Sessions
+UID:b1348a9a-ac94-4624-ab6b-75c62cc35963@b134.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260908
+SUMMARY:Enrollment Census Date | Autumn Semester\, 7-week Session 1
+UID:0f0868ca-bb41-48de-8e05-ef0b051ed695@0f08.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240903
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | Autumn Full Term\, 7-Week Session 1
+SUMMARY:Census Date
+UID:6465d888-1a7c-446e-94f9-197d48d5ce3e@6465.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250225
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | 7-Week Session 1
+SUMMARY:Final Examinations
+UID:abfcf8a5-ab22-4515-a454-83b846e51f4e@abfc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240729
+SUMMARY:Final Exams | Summer Full Term Session
+UID:cbce54e4-d02d-4d34-a7b6-f9d7092e1cb6@cbce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251217
+SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Autumn Semester\, 7-week Session 2
+UID:a9e3f62c-413f-4635-aa2c-48f8d0122392@a9e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260430
+SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2
+UID:9e8d5ee4-20a0-4eda-9cf8-8a3eb28a7df5@9e8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261230
+SUMMARY:Academic Winter Recess\; Offices Closed
+UID:7c62415c-ad72-468e-a206-accaf8831119@7c62.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261012
+SUMMARY:Last Day Of Classes | 7-week Session 1
+UID:d64269fd-d690-456a-8320-d01613e054e9@d642.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251111
+SUMMARY:Veterans Day\; No Classes\, Offices Closed | Autumn Semester\, 7-week Session 2
+UID:808868e2-5931-4807-bb5a-cf306515da8c@8088.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+SUMMARY:Autumn Break\; No Classes\, Offices Open | Autumn Semester
+UID:184e9a6e-9d23-4b7f-9c8b-c37e821062d6@184e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230806
+DESCRIPTION:Ohio Residency For Tuition | Summer Term/Sessions
+SUMMARY: Appeal Deadline
+UID:5ca7eb06-2719-403d-92a8-53c6317524e5@5ca7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251230
+SUMMARY:Academic Winter Recess\; Offices Closed
+UID:4db48ee6-bfab-4105-9801-251aac6e672f@4db4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261210
+SUMMARY:Reading Day | Autumn Semester\, 7-week Session 2
+UID:59f36c1a-bfdb-407c-ad1e-c28d0eccd0e1@59f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240731
+SUMMARY:Final Exams | Summer Full Term Session
+UID:2c273c7e-76d4-480a-87a7-7d1041c67bcf@2c27.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250616
+SUMMARY:First Day Of Classes | 6-week Session 2
+UID:506cc58e-6922-4de0-9b2d-a0fafdf7c5d7@506c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230728
+SUMMARY:Last Day Of Classes | Summer Full Term Session
+UID:922c9be6-1d6a-49b0-a7a5-75c89cdda828@922c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270317
+SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
+UID:dc847b71-c58a-4335-ba65-5d4b4a2e1c1a@dc84.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250120
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date.) | Spring Full Term\, 7-Week Session 1
+SUMMARY: Census Date
+UID:fd99ed22-e536-4a88-98ce-50a30f9ffeb6@fd99.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231217
+DESCRIPTION:Ohio Residency For Tuition | Autumn Term/Sessions
+SUMMARY:Appeal Deadline
+UID:e07c9c46-8b84-4b75-9544-187ea24ee7a2@e07c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+SUMMARY:First Day Of Classes | 8-week Session 2\, 4-week Session 2
+UID:a3732734-8ed1-4748-b57d-a041d203b12d@a373.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251226
+SUMMARY:Academic Winter Recess\; Offices Closed
+UID:af43a6aa-c6c7-4457-9748-0d5808ee9eca@af43.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241010
+DESCRIPTION:No Classes\, Offices Open  | Autumn Full Term\, 7-Week Session 2
+SUMMARY:Autumn Break October 10-11
+UID:c35ca729-3415-48ae-b07a-d6ee18937a22@c35c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251218
+SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Autumn Semester\, 7-week Session 2
+UID:962bd702-8784-4437-bad5-28b36717a085@962b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270125
+SUMMARY:Enrollment Census Date | Spring Semester\, 7-week Session 1
+UID:1231deb1-850e-42b1-b1a9-308b8af740ff@1231.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230523
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | Summer Full Term Session\, 6-Week Session 1\, 8-Week Session 1\, 4-Week Session 1
+SUMMARY:Census Date
+UID:5d4fe73c-177f-4ddc-bf62-b3fc1c65f6fe@5d4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270426
+SUMMARY:Last Day Of Classes | Spring Semester\, 7-week Session 2
+UID:4699bdc4-360d-4c9a-892f-9d5af20e5c16@4699.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260703
+SUMMARY:Independence Day (observed)\; No Classes\, Offices Closed | Summer Semester\, 8-week Session 2\, 6-week Session 2
+UID:5326c04e-8c00-4a85-9f5a-fb972a9332db@5326.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230905
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | Autumn Full Term\, 7-Week Session 1
+SUMMARY:Census Date
+UID:680b9337-1840-4271-b3b4-35b8d86a76e7@680b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
+UID:40481b41-3b99-4a01-baca-b7523dea9414@4048.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251126
+SUMMARY:Thanksgiving Break Begins\; No Classes\, Offices Open | Autumn Semester\, 7-week Session 2
+UID:69920917-3faf-4619-89bb-3680ed8125a1@6992.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240429
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
+SUMMARY:Final Examinations
+UID:2374f6fa-5c41-4d87-ab3a-92a841fd2b10@2374.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Indigenous People's Day/columbus Day (observed)\; No Classes\, Offices Closed | Autumn Semester\, 7-week Session 2
+UID:380239a0-ebce-4b63-ba05-e92105f8df09@3802.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+SUMMARY:Enrollment Census Date | 7-week Session 2
+UID:2608d1f1-10ab-4737-8baa-85092ec001b9@2608.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251015
+SUMMARY:Final Examinations | 7-week Session 1
+UID:298e58ad-ff4b-4e7b-96ce-352ef159455d@298e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251127
+SUMMARY:Thanksgiving Day\; No Classes\, Offices Closed | Autumn Semester\, 7-week Session 2
+UID:e8d6c0e2-a95f-44ed-b225-da3a2b578924@e8d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231208
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
+UID:f0fba133-3ae5-4087-9c17-465155ee98bf@f0fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240313
+DESCRIPTION:No Classes\, Offices Open | Spring Full Term\, 7-Week Session 2
+SUMMARY:Spring Break
+UID:1a11dfef-b3cb-409f-a2e8-d4d443a31c34@1a11.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240101
+DESCRIPTION:Offices Closed | Spring Term/Sessions
+SUMMARY:New Year's Day
+UID:15fef8c7-abf2-4a3f-92d0-e06c93816e43@15fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240726
+DESCRIPTION:Finals For Session Courses May Be Designation To Other Dates | 6-Week Session 2\, 8-Week Session 2\, 4-Week Session 3
+SUMMARY:Last Day Of Classes And Final Exams
+UID:e9ad23d5-963a-4dc9-9f8d-e126ac58e3cd@e9ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261019
+SUMMARY:First Day Of Classes | 7-week Session 2
+UID:bbd30ed7-c98b-4c59-8e3a-5e9ac9e9d959@bbd3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231009
+SUMMARY:Last Day Of Classes | 7-week Session 1
+UID:bc602d4d-3aa4-4b67-b11e-ff103f108e38@bc60.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250901
 SUMMARY:Labor Day\; No Classes\, Offices Closed | Autumn Semester\, 7-week Session 1
-UID:db9b871d-5fc2-4f37-9f09-78e6a2fad1a5@db9b.org
+UID:787a0e25-af3d-47fd-b484-863bec9e1c7a@787a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261216
+DTSTART;VALUE=DATE:20270316
+SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
+UID:087a13ae-a029-4fb3-a6a1-1533076b7042@087a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230717
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 4-Week Session 3
+SUMMARY:Census Date
+UID:5c674eec-36f0-4163-9a0d-f9688807eab8@5c67.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270303
+SUMMARY:First Day Of Classes | 7-week Session 2
+UID:dd1e3a49-52e7-4856-b2ba-147c2cfce7ac@dd1e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230602
+DESCRIPTION:Finals For Session Courses May Be Designation To Other Dates | 4-Week Session 1
+SUMMARY:Last Day Of Classes And Final Exams
+UID:86ca476d-e777-444f-b8e5-04e14fbfa451@86ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261229
+SUMMARY:Academic Winter Recess\; Offices Closed
+UID:7b279a38-7633-4fcf-bea2-e26a9457813f@7b27.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240314
+DESCRIPTION:No Classes\, Offices Open | Spring Full Term\, 7-Week Session 2
+SUMMARY:Spring Break
+UID:bd0b8cd7-99e9-4c14-8ee5-ff0e1e1e1a77@bd0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240505
+DESCRIPTION:Ohio Residency For Tuition | Spring Term/Sessions
+SUMMARY: Appeal Deadline
+UID:1dccd1bf-6dd0-4d29-a409-f223175c6ac2@1dcc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270318
+SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
+UID:09890dc0-25a6-42fe-ab34-480ca2bbdcd9@0989.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261014
+SUMMARY:Final Examinations | 7-week Session 1
+UID:6222abbb-3e08-4706-9d7e-bc3cbbe5997b@6222.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260907
+SUMMARY:Labor Day\; No Classes\, Offices Closed | Autumn Semester\, 7-week Session 1
+UID:a553330c-4595-4891-bff6-634f096d83dc@a553.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261015
+SUMMARY:Autumn Break\; No Classes\, Offices Open | Autumn Semester
+UID:2f52aed6-40b9-40d8-89fd-a41174c788e7@2f52.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231122
+DESCRIPTION:No Classes\, Offices Open | Autumn Full Term\, 7-Week Session 2
+SUMMARY:Thanksgiving Break Begins
+UID:3ec64ab7-9c0b-4510-a7fb-70b6c00a3d59@3ec6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250421
+SUMMARY:Last Day Of Classes | Spring Full Term\, 7-week Session 2
+UID:7799ee5b-764b-4d6c-bb50-0306c52d4c5b@7799.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250803
+DESCRIPTION:Ohio Residency For Tuition | Summer Term/Sessions
+SUMMARY:Appeal Deadline
+UID:6a367e58-3735-4615-8425-dfea4e523215@6a36.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+SUMMARY:Juneteenth National Independence Day\; No Classes\, Offices Closed | Summer Semester\, 8-week Session 1\, 8-week Session 2\, 4-week Session 2
+UID:e485cd46-064c-4688-a03c-4c12184c13ee@e485.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251224
+SUMMARY: Presidents' Day (observed)\; Offices Closed 
+UID:2f5d6de4-7985-47dc-b075-23f3ca4a8eb2@2f5d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260317
+SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
+UID:0dcce1e5-166d-4a9b-aa2f-67e2ea407a14@0dcc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240318
+SUMMARY:Registration Opens- Refer To Buckeye Link For Enrollment Appointment | Autumn Term/sessions
+UID:6fb9efd1-0d8b-40db-9151-755fd8c9c096@6fb9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250423
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
+SUMMARY:Final Examinations
+UID:36382aa6-ad20-4173-ba2a-c0af8064cf02@3638.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231124
+DESCRIPTION:No Classes\, Offices Closed | Autumn Full Term\, 7-Week Session 2
+SUMMARY:Indigenous Peoples Day/columbus Day (observed)
+UID:1e447c5e-6c75-490a-a7a0-c106bd8d593f@1e44.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260825
+SUMMARY:First Day Of Classes | Autumn Semester\, 7-week Session 1
+UID:802d7f87-0225-4d00-9b90-1291380d27de@802d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250616
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 8-Week Session 2\, 4-Week Session 2
+SUMMARY:Census Date
+UID:4c3b429d-7134-49e7-8149-425bcc6e66d4@4c3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250729
+SUMMARY:Final Exams | Summer Full Term
+UID:a279acd3-ee9d-4cfc-8f30-96660c8f53d9@a279.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250422
+SUMMARY:Reading Day | Spring Full Term\, 7-week Session 2
+UID:274fdc4c-a0e8-48ec-a159-766b656e6300@274f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241127
+DESCRIPTION:No Classes\, Offices Open | Autumn Full Term\, 7-Week Session 2
+SUMMARY:Thanksgiving Break Begins
+UID:af292ab4-ce20-4380-ae8d-9947791fef6f@af29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270317
+SUMMARY:Enrollment Census Date | 7-week Session 2
+UID:bebb52c1-59ab-4201-8517-4f6395f12043@bebb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270118
+SUMMARY:Martin Luther King Jr. Day\; No Classes\, Offices Closed | Spring Semester\, 7-week Session 1
+UID:f48e9c53-3c34-4166-b916-937e6b536aa3@f48e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270315
+SUMMARY:Spring Break\; No Classes\, Offices Open | Spring Semester\, 7-week Session 2
+UID:3f81351f-053e-4e1c-ade1-a4ecff3857bf@3f81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260504
+SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2
+UID:4431eceb-9cfe-44ce-a449-3bee8edefb05@4431.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260818
+SUMMARY:Initial Tuition And Fee Payment Deadline\; Subsequent Deadlines On Statement Of Account | Autumn Semester\, Sessions
+UID:c425bf8e-b68b-408f-9af9-fec5592a6727@c425.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260525
+SUMMARY:Memorial Day\; No Classes\, Offices Closed | Summer Semester\, 8-week Session 1\, 6-week Session 1\, 4-week Session 1
+UID:7c268eeb-6c84-4fb1-a7c0-961251c03f48@7c26.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241205
+SUMMARY:Reading Day | Autumn Full Term\, 7-week Session 2
+UID:d78455ed-fa2f-4985-bc7b-e1a12d7e8857@d784.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Thanksgiving Day\; No Classes\, Offices Closed | Autumn Semester\, 7-week Session 2
+UID:6d7eea12-fa61-4a67-bbd4-04ed18af84a9@6d7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231214
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
+UID:6a009f2f-6aca-4e1e-a54c-31245f6021df@6a00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240603
+DESCRIPTION:Unpaid Accounts Subject To A Late Fee Beyond This Point
+SUMMARY:Initial Tuition\, Fee And University Residences And Dining Services Payment Deadline
+UID:c09e49e7-5e0c-4b92-a5d6-716ae030125a@c09e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230728
+DESCRIPTION:Finals For Session Courses May Be Designation To Other Dates | 6-Week Session 2\, 8-Week Session 2\, 4-Week Session 3
+SUMMARY:Last Day Of Classes And Final Exams
+UID:2f355cfa-3c0b-4ac1-8c28-5c9ed6eadc92@2f35.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270302
+SUMMARY:Final Examinations | 7-week Session 1
+UID:fb86b574-512c-4019-bdc8-198076ebf78c@fb86.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250509
+DESCRIPTION:Online Form And All Requested Documentation | Summer Term/Sessions
+SUMMARY:Ohio Residency For Tuition Application Deadline
+UID:d8e8cc6d-0064-40d7-bf27-545276f06b40@d8e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230806
+SUMMARY:Commencement | Summer Term/sessions
+UID:cc0c1c92-1261-4d31-986a-c750a2b76c29@cc0c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261220
+SUMMARY:Appeal Deadline For Ohio Residency For Tuition | Autumn Semester\, Sessions
+UID:c0e77cfd-83eb-4f28-8f6e-95ecdfbc7443@c0e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240617
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 8-Week Session 2\, 4-Week Session 2
+SUMMARY:Census Date
+UID:9923769e-1644-4707-8c7f-90ef204192be@9923.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+SUMMARY:Ohio Residency For Tuition Application Deadline | Autumn Semester\, Sessions
+UID:d2af6be0-8319-4aa0-a498-5c324cb22c5d@d2af.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270503
+SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Spring Semester\, 7-week Session 2 
+UID:66a59281-ee97-459f-843c-25bdc65cb8e4@66a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240424
+DESCRIPTION:Finals For Session Courses May Be Designated To Other Dates | Spring Full Term\, 7-Week Session 2
+SUMMARY:Final Examinations
+UID:cf2b5776-e36d-4212-81ea-b724892d5131@cf2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250217
+SUMMARY:Registration Opens- Refer To Buckeye Link For Enrollment Appointment | Summer Term/sessions
+UID:c2d617b3-339f-4eb4-8729-aef3b794665b@c2d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240730
+SUMMARY:Final Exams | Summer Full Term Session
+UID:fbe08e52-cc29-4986-a82a-92bc18367106@fbe0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260803
+SUMMARY:Final Exams | Summer Semester
+UID:8410fe40-c09a-44d3-ad0b-0aba569f6564@8410.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230320
+SUMMARY:Registration Opens- Refer To Buckeye Link For Enrollment Appointment | Autumn Term/sessions
+UID:e8da172b-b455-4502-8178-a42bce389dc0@e8da.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270115
+SUMMARY:Ohio Residency For Tuition Application Deadline | Spring Semester\, Sessions
+UID:6f13e182-c6c2-4661-aa70-d56843eabb57@6f13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240301
+DESCRIPTION:Deadline For Completion And Documentation Is The 1St Friday Of The Semester | Summer Term/Sessions
+SUMMARY:Online Residency For Tuition Purposes Online Application Available
+UID:1b26dc39-e336-4a1f-98c6-dd44cb437893@1b26.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260105
+SUMMARY:Initial Tuition And Fee Payment Deadline\; Subsequent Deadlines On Statement Of Account | Spring Semester\, Sessions
+UID:1d361c31-e388-4d2a-9768-77374408d1e5@1d36.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231212
+SUMMARY:Final Examinations\, Finals For Session Courses May Be Designated To Other Dates | Autumn Full Term\, 7-week Session 2
+UID:81357753-bfcd-4214-af22-46eb65e49027@8135.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240619
+DESCRIPTION:No Classes\, Offices Closed | Summer Term/Sessions
+SUMMARY:Juneteenth National Independence Day
+UID:c2a0b3ab-69c2-4de9-9edc-a74f99ed8265@c2a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260101
+SUMMARY:New Year's Day\; Offices Closed
+UID:dc279160-683a-4748-ae0f-f02af95738a8@dc27.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250601
+SUMMARY:Ohio Residency For Tuition Purposes Online Application Available | Autumn Semester\, Sessions
+UID:7c5827c2-2e2a-4dfb-9da1-eb66b34ca379@7c58.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261214
 SUMMARY:Final Examinations (session Courses May Have Other Exam Dates) | Autumn Semester\, 7-week Session 2
-UID:beb36515-a9bf-4810-850f-7ae90afbaca6@beb3.org
+UID:5a3ccf9a-2fe5-4167-a505-e092bccfa51e@5a3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241128
+DESCRIPTION:No Classes\, Offices Closed | Autumn Full Term\, 7-Week Session 2
+SUMMARY:Thanksgiving Day
+UID:0869c30c-4901-4ac4-bace-db56a01b575c@0869.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250630
+DESCRIPTION:15Th Day Reporting (The University Reserves The Right To Refuse Registration And/Or Fee Payment After This Date) | 6-Week Session 2
+SUMMARY:Census Date
+UID:80549620-b72c-4972-9e8d-a332d433c7e1@8054.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240628
+DESCRIPTION:Finals For Session Courses May Be Designation To Other Dates | 8-Week Session 1\, 4-Week Session 2
+SUMMARY:Last Day Of Classes And Final Exams
+UID:d74eff32-4b65-4751-a8ad-32af6f561348@d74e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240701
+SUMMARY:First Day Of Classes | 4-week Session 3
+UID:55b4feb5-5682-42e5-95bb-e7c3f86d0d49@55b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240223
+SUMMARY:Last Day Of Classes | 7-week Session 1
+UID:4eb0899c-1aef-4bdc-9e3f-059ccc094dbb@4eb0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240102
+DESCRIPTION:Unpaid Accounts Subject To A Late Fee Beyond This Point
+SUMMARY:Initial Tuition\, Fee And University Residences And Dining Services Payment Deadline
+UID:48341cac-d01d-4e0f-b92e-77185c60caae@4834.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230605
+SUMMARY:First Day Of Classes | 8-week Session 2\, 4-week Session 2
+UID:f7f14278-cdd6-404b-ad93-da1bb40c7fce@f7f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241224
+DESCRIPTION:Offices Closed 
+SUMMARY: Presidents Day Observed
+UID:6c00c4af-30d2-413b-a469-5ac37d51904d@6c00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240804
+DESCRIPTION:Ohio Residency For Tuition | Summer Term/Sessions
+SUMMARY: Appeal Deadline
+UID:18674bb7-eb33-465a-9888-16462479a480@1867.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+SUMMARY:Ohio Residency For Tuition Purposes Online Application Available | Summer Semester\, Sessions
+UID:d05feb7a-07f2-4623-aa68-50487adc4d63@d05f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+SUMMARY:Last Day Of Classes And Final Exams | 4-week Session 1
+UID:b1ac13f6-6226-4e82-9fa8-1f7d73d389ed@b1ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+DESCRIPTION:No Classes\, Offices Closed | Autumn Full Term\, 7-Week Session 1
+SUMMARY:Labor Day
+UID:385a4816-5634-4c61-9354-86b99649fbe6@385a.org
 END:VEVENT
 END:VCALENDAR
