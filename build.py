@@ -1,4 +1,5 @@
 import string
+import time
 from datetime import datetime
 
 import requests
@@ -6,6 +7,9 @@ from ics import Calendar, Event
 from ics.grammar.parse import ContentLine
 
 CALENDAR_URL = "https://registrar.osu.edu/umbraco/api/calendar/getentries"
+ATTEMPTS = 5
+BACKOFF = 5
+TIMEOUT = 30
 
 
 def get_calendar(years_past=5, years_future=5, filters=None):
@@ -19,8 +23,18 @@ def get_calendar(years_past=5, years_future=5, filters=None):
         "selected": None,
         "filters": filters,
     }
-    r = requests.get(CALENDAR_URL, params=payload)
-    return r.json()
+
+    for attempt in range(1, ATTEMPTS + 1):
+        try:
+            r = requests.get(CALENDAR_URL, params=payload, timeout=TIMEOUT)
+            r.raise_for_status()
+            return r.json()
+        except (requests.RequestException, ValueError) as e:
+            if attempt == ATTEMPTS:
+                raise
+            delay = BACKOFF * 2 ** (attempt - 1)
+            print(f"Attempt {attempt}/{ATTEMPTS} failed ({e}); retrying in {delay}s")
+            time.sleep(delay)
 
 
 def make_calendar(entries):
